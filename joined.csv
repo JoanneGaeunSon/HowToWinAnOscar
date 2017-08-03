@@ -1,0 +1,697 @@
+,director_name,Film,gross,genres,duration,plot_keywords,Year,Award,Name
+0,James Cameron,Titanic,658672302.0,Drama|Romance,194.0,artist|love|ship|titanic|wet,1997,Actress in a Leading Role,Kate Winslet
+1,James Cameron,Titanic,658672302.0,Drama|Romance,194.0,artist|love|ship|titanic|wet,1997,Actress in a Supporting Role,Gloria Stuart
+2,Christopher Nolan,The Dark Knight,533316061.0,Action|Crime|Drama|Thriller,152.0,based on comic book|dc comics|psychopath|star died before release|urban setting,2008,Actor in a Supporting Role,Heath Ledger
+3,David Fincher,The Curious Case of Benjamin Button,127490802.0,Drama|Fantasy|Romance,166.0,deformed baby|diary|lingerie slip|older man younger woman relationship|premature aging,2008,Actor in a Leading Role,Brad Pitt
+4,David Fincher,The Curious Case of Benjamin Button,127490802.0,Drama|Fantasy|Romance,166.0,deformed baby|diary|lingerie slip|older man younger woman relationship|premature aging,2008,Actress in a Supporting Role,Taraji P. Henson
+5,Edward Zwick,The Last Samurai,111110575.0,Action|Drama|History|War,154.0,captain|emperor|honor|japan|samurai,2003,Actor in a Supporting Role,Ken Watanabe
+6,Breck Eisner,Sahara,68642452.0,Action|Adventure|Comedy|Thriller,124.0,beach|civil war|desert|dictator|ship,1943,Actor in a Supporting Role,J. Carrol Naish
+7,Alejandro G. IÌ±ÌÁrritu,The Revenant,183635922.0,Adventure|Drama|Thriller|Western,156.0,bear attack|cauterizing a wound|native american|revenge|survival,2015,Actor in a Leading Role,Leonardo DiCaprio
+8,Alejandro G. IÌ±ÌÁrritu,The Revenant,183635922.0,Adventure|Drama|Thriller|Western,156.0,bear attack|cauterizing a wound|native american|revenge|survival,2015,Actor in a Supporting Role,Tom Hardy
+9,Gore Verbinski,Pirates of the Caribbean: The Curse of the Black Pearl,305388685.0,Action|Adventure|Fantasy,143.0,caribbean|curse|governor|pirate|undead,2003,Actor in a Leading Role,Johnny Depp
+10,Alfonso CuarÌ_n,Gravity,274084951.0,Adventure|Drama|Sci-Fi|Thriller,91.0,box office hit|long take|sole survivor|space|space station,2013,Actress in a Leading Role,Sandra Bullock
+11,Roland Emmerich,The Patriot,113330342.0,Action|Drama|History|War,142.0,american revolution|british|french|hero|standoff,1928/1929,Actor,Lewis Stone
+12,Roland Emmerich,The Patriot,113330342.0,Action|Drama|History|War,142.0,american revolution|british|french|hero|standoff,1928/1929,Art Direction,Hans Dreier
+13,Roland Emmerich,The Patriot,113330342.0,Action|Drama|History|War,142.0,american revolution|british|french|hero|standoff,1928/1929,Directing,Ernst Lubitsch
+14,Roland Emmerich,The Patriot,113330342.0,Action|Drama|History|War,142.0,american revolution|british|french|hero|standoff,1928/1929,Outstanding Picture,Paramount Famous Lasky
+15,Roland Emmerich,The Patriot,113330342.0,Action|Drama|History|War,142.0,american revolution|british|french|hero|standoff,1928/1929,Writing,Hans Kraly
+16,Martin Scorsese,The Aviator,102608827.0,Biography|Drama,170.0,1920s|aviation|fight|spruce goose|test flight,2004,Actor in a Leading Role,Leonardo DiCaprio
+17,Martin Scorsese,The Aviator,102608827.0,Biography|Drama,170.0,1920s|aviation|fight|spruce goose|test flight,2004,Actor in a Supporting Role,Alan Alda
+18,Martin Scorsese,The Aviator,102608827.0,Biography|Drama,170.0,1920s|aviation|fight|spruce goose|test flight,2004,Actress in a Supporting Role,Cate Blanchett
+19,Peter Jackson,The Lord of the Rings: The Fellowship of the Ring,313837577.0,Action|Adventure|Drama|Fantasy,171.0,elf|hobbit|middle earth|quest|ring,2001,Actor in a Supporting Role,Ian McKellen
+20,Michael Mann,Ali,58183966.0,Biography|Drama|Sport,165.0,african american protagonist|african americans|boxing gym|gym|rumble in the jungle,2001,Actor in a Leading Role,Will Smith
+21,Michael Mann,Ali,58183966.0,Biography|Drama|Sport,165.0,african american protagonist|african americans|boxing gym|gym|rumble in the jungle,2001,Actor in a Supporting Role,Jon Voight
+22,Ridley Scott,The Martian,228430993.0,Adventure|Drama|Sci-Fi,151.0,astronaut|international cooperation|left for dead|nasa|space habitat,2015,Actor in a Leading Role,Matt Damon
+23,Ridley Scott,Gladiator,187670866.0,Action|Drama|Romance,171.0,battlefield|blood|combat|gladiator|roman empire,2000,Actor in a Leading Role,Russell Crowe
+24,Ridley Scott,Gladiator,187670866.0,Action|Drama|Romance,171.0,battlefield|blood|combat|gladiator|roman empire,2000,Actor in a Supporting Role,Joaquin Phoenix
+25,Tim Burton,Planet of the Apes,180011740.0,Action|Adventure|Sci-Fi|Thriller,119.0,astronaut|cage|planet|wilhelm scream|year 2029,1968,Honorary Award,John Chambers
+26,Tim Burton,Planet of the Apes,180011740.0,Action|Adventure|Sci-Fi|Thriller,119.0,astronaut|cage|planet|wilhelm scream|year 2029,1968,Honorary Award,John Chambers
+27,Ridley Scott,American Gangster,130127620.0,Biography|Crime|Drama,176.0,death|heroin|popcorn|smuggling|vietnam,2007,Actress in a Supporting Role,Ruby Dee
+28,Quentin Tarantino,Django Unchained,162804648.0,Drama|Western,165.0,dynamite|historically inaccurate|ku klux klan|n word|slavery,2012,Actor in a Supporting Role,Christoph Waltz
+29,Edward Zwick,Blood Diamond,57366262.0,Adventure|Drama|Thriller,143.0,diamond|elephant|fisherman|rebel|sierra leone,2006,Actor in a Leading Role,Leonardo DiCaprio
+30,Edward Zwick,Blood Diamond,57366262.0,Adventure|Drama|Thriller,143.0,diamond|elephant|fisherman|rebel|sierra leone,2006,Actor in a Supporting Role,Djimon Hounsou
+31,Martin Scorsese,The Wolf of Wall Street,116866727.0,Biography|Comedy|Crime|Drama,240.0,based on true story|fellatio|female rear nudity|sex in an airplane|stockbroker,2013,Actor in a Leading Role,Leonardo DiCaprio
+32,Martin Scorsese,The Wolf of Wall Street,116866727.0,Biography|Comedy|Crime|Drama,240.0,based on true story|fellatio|female rear nudity|sex in an airplane|stockbroker,2013,Actor in a Supporting Role,Jonah Hill
+33,Martin Scorsese,Gangs of New York,77679638.0,Crime|Drama,216.0,butcher|civil war|gangster|new york city|revenge,2002,Actor in a Leading Role,Daniel Day-Lewis
+34,Peter Jackson,The Lovely Bones,43982842.0,Drama|Fantasy|Thriller,135.0,1970s|afterlife|heaven|pedophile|rape,2009,Actor in a Supporting Role,Stanley Tucci
+35,Peter Jackson,The Lovely Bones,43982842.0,Drama|Fantasy|Thriller,135.0,1970s|afterlife|heaven|pedophile|rape,2009,Actor in a Supporting Role,Stanley Tucci
+36,John Lee Hancock,The Alamo,22406362.0,Drama|History|War|Western,137.0,army|dictator|general|texan|texas,1960,Actor in a Supporting Role,Chill Wills
+37,John Lee Hancock,The Alamo,22406362.0,Drama|History|War|Western,137.0,army|dictator|general|texan|texas,1960,Actor in a Supporting Role,Chill Wills
+38,Martin Scorsese,The Departed,132373442.0,Crime|Drama|Thriller,151.0,boston|mole|police|undercover|undercover cop,2006,Actor in a Supporting Role,Mark Wahlberg
+39,Ben Stiller,Tropic Thunder,110416702.0,Action|Comedy,121.0,film director|parody|spoof|vietnam|written and directed by cast member,2008,Actor in a Supporting Role,Robert Downey Jr.
+40,David Fincher,The Girl with the Dragon Tattoo,102515793.0,Crime|Drama|Mystery|Thriller,158.0,computer hacker|hacker|investigation|journalist|punk,2011,Actress in a Leading Role,Rooney Mara
+41,Timur Bekmambetov,Ben-Hur,,Adventure|Drama|History,141.0,,1959,Actor,Charlton Heston
+42,Timur Bekmambetov,Ben-Hur,,Adventure|Drama|History,141.0,,1959,Actor in a Supporting Role,Hugh Griffith
+43,Timur Bekmambetov,Ben-Hur,,Adventure|Drama|History,141.0,chariot race|epic|false accusation|jerusalem|slave,1959,Actor,Charlton Heston
+44,Timur Bekmambetov,Ben-Hur,,Adventure|Drama|History,141.0,chariot race|epic|false accusation|jerusalem|slave,1959,Actor in a Supporting Role,Hugh Griffith
+45,Timur Bekmambetov,Ben-Hur,,Adventure|Drama|History,141.0,chariot race|epic|false accusation|jerusalem|slave,1959,Actor,Charlton Heston
+46,Timur Bekmambetov,Ben-Hur,,Adventure|Drama|History,141.0,chariot race|epic|false accusation|jerusalem|slave,1959,Actor in a Supporting Role,Hugh Griffith
+47,Ron Howard,Cinderella Man,61644321.0,Biography|Drama|Sport,144.0,boxer|boxing|dream|great depression|love,2005,Actor in a Supporting Role,Paul Giamatti
+48,Robert Zemeckis,Cast Away,233630478.0,Adventure|Drama|Romance,143.0,christmas|island|love|survival|talking to inanimate object,2000,Actor in a Leading Role,Tom Hanks
+49,Bob Fosse,All That Jazz,,Comedy|Drama|Music|Musical,123.0,dancer|editing|stand up comedian|surgery|vomiting,1979,Actor in a Leading Role,Roy Scheider
+50,Nancy Meyers,Something's Gotta Give,124590960.0,Comedy|Drama|Romance,128.0,beach|dating|doctor|heart attack|weekend,2003,Actress in a Leading Role,Diane Keaton
+51,Sam Mendes,Road to Perdition,104054514.0,Crime|Drama|Thriller,117.0,1930s|blood|gun|on the run|revenge,2002,Actor in a Supporting Role,Paul Newman
+52,Anthony Minghella,Cold Mountain,95632614.0,Adventure|Drama|History|Romance|War,154.0,civil war|mountain|soldier|well|wounded soldier,2003,Actor in a Leading Role,Jude Law
+53,Anthony Minghella,Cold Mountain,95632614.0,Adventure|Drama|History|Romance|War,154.0,civil war|mountain|soldier|well|wounded soldier,2003,Actress in a Supporting Role,Renée Zellweger
+54,Jonathan Demme,The Manchurian Candidate,65948711.0,Drama|Mystery|Sci-Fi|Thriller,129.0,brainwashed assassin|conspiracy|critically acclaimed|mother son relationship|soldier,1962,Actress in a Supporting Role,Angela Lansbury
+55,Rob Marshall,Nine,19673424.0,Drama|Musical|Romance,118.0,based on stage musical based on film|child abuse|film director|italian|mistress,2009,Actress in a Supporting Role,Penélope Cruz
+56,Ron Howard,A Beautiful Mind,170708996.0,Biography|Drama,135.0,conspiracy|cryptography|mathematician|mental illness|nobel prize,2001,Actor in a Leading Role,Russell Crowe
+57,Ron Howard,A Beautiful Mind,170708996.0,Biography|Drama,135.0,conspiracy|cryptography|mathematician|mental illness|nobel prize,2001,Actress in a Supporting Role,Jennifer Connelly
+58,Mike Nichols,Charlie Wilson's War,66636385.0,Biography|Comedy|Drama|History,102.0,afghanistan|arms dealer|based on true story|cia|texas,2007,Actor in a Supporting Role,Philip Seymour Hoffman
+59,Bill Condon,Dreamgirls,103338338.0,Drama|Music|Musical,130.0,1960s|fire|pop chart|singer|trio,2006,Actor in a Supporting Role,Eddie Murphy
+60,Bill Condon,Dreamgirls,103338338.0,Drama|Music|Musical,130.0,1960s|fire|pop chart|singer|trio,2006,Actress in a Supporting Role,Jennifer Hudson
+61,Quentin Tarantino,Inglourious Basterds,120523073.0,Adventure|Drama|War,153.0,france|german|nazis|revenge|scalping,2009,Actor in a Supporting Role,Christoph Waltz
+62,Michael Mann,The Insider,28965197.0,Biography|Drama|Thriller,157.0,cbs|cbs news|research|tobacco|whistleblower,1999,Actor in a Leading Role,Russell Crowe
+63,Steven Spielberg,Saving Private Ryan,216119491.0,Action|Drama|War,169.0,army|invasion|killed in action|normandy|soldier,1998,Actor in a Leading Role,Tom Hanks
+64,Steven Spielberg,Lincoln,182204440.0,Biography|Drama|History|War,150.0,cultural conflict|politics|president|slavery|u.s. president,2012,Actor in a Leading Role,Daniel Day-Lewis
+65,Steven Spielberg,Lincoln,182204440.0,Biography|Drama|History|War,150.0,cultural conflict|politics|president|slavery|u.s. president,2012,Actor in a Supporting Role,Tommy Lee Jones
+66,Steven Spielberg,Lincoln,182204440.0,Biography|Drama|History|War,150.0,cultural conflict|politics|president|slavery|u.s. president,2012,Actress in a Supporting Role,Sally Field
+67,Ron Howard,Apollo 13,172071312.0,Adventure|Drama|History,140.0,cape kennedy|news footage|reference to christopher columbus|rocket|trapped in space,1995,Actor in a Supporting Role,Ed Harris
+68,Ron Howard,Apollo 13,172071312.0,Adventure|Drama|History,140.0,cape kennedy|news footage|reference to christopher columbus|rocket|trapped in space,1995,Actress in a Supporting Role,Kathleen Quinlan
+69,John Woo,Broken Arrow,70450000.0,Action|Crime|Thriller,108.0,captain|desert|major|park ranger|utah,1950,Actor in a Supporting Role,Jeff Chandler
+70,Mike Nichols,Primary Colors,38966057.0,Comedy|Drama,143.0,campaigning|candidate|election|governor|president,1998,Actress in a Supporting Role,Kathy Bates
+71,Quentin Tarantino,The Hateful Eight,54116191.0,Crime|Drama|Mystery|Thriller|Western,187.0,blizzard|blood vomiting|bounty hunter|murder|shot in the crotch,2015,Actress in a Supporting Role,Jennifer Jason Leigh
+72,Frank Darabont,The Green Mile,136801374.0,Crime|Drama|Fantasy|Mystery,189.0,1930s|death row inmate|healing|prison guard|southern u.s.,1999,Actor in a Supporting Role,Michael Clarke Duncan
+73,David Fincher,Gone Girl,167735396.0,Crime|Drama|Mystery|Thriller,149.0,based on novel|disappearance|missing person|missing wife|murder suspect,2014,Actress in a Leading Role,Rosamund Pike
+74,Peter Weir,The Truman Show,125603360.0,Comedy|Drama|Sci-Fi,103.0,controlled environment|fictional reality show|hidden camera|innocence lost|simulated reality,1998,Actor in a Supporting Role,Ed Harris
+75,Michael Mann,Collateral,100003492.0,Crime|Drama|Thriller,120.0,city by night|contract killer|driving at night|los angeles california|taxi,2004,Actor in a Supporting Role,Jamie Foxx
+76,Steven Zaillian,A Civil Action,56702901.0,Drama,115.0,1980s|law firm|lawsuit|lawyer|toxic waste,1998,Actor in a Supporting Role,Robert Duvall
+77,David O. Russell,Joy,56443482.0,Biography|Comedy|Drama,124.0,based on real person|female inventor|mop|sales pitch|woman holding a shotgun,2015,Actress in a Leading Role,Jennifer Lawrence
+78,Clint Eastwood,Invictus,37479778.0,Biography|Drama|History|Sport,134.0,apartheid|nation|nelson mandela|president|rugby,2009,Actor in a Leading Role,Morgan Freeman
+79,Clint Eastwood,Invictus,37479778.0,Biography|Drama|History|Sport,134.0,apartheid|nation|nelson mandela|president|rugby,2009,Actor in a Supporting Role,Matt Damon
+80,Cameron Crowe,Almost Famous,32522352.0,Adventure|Comedy|Drama|Music,152.0,band|magazine|rolling stone magazine|smoking marijuana|tour,2000,Actress in a Supporting Role,Kate Hudson
+81,Cameron Crowe,Almost Famous,32522352.0,Adventure|Comedy|Drama|Music,152.0,band|magazine|rolling stone magazine|smoking marijuana|tour,2000,Actress in a Supporting Role,Frances McDormand
+82,Clint Eastwood,American Sniper,350123553.0,Action|Biography|Drama|History|Thriller|War,133.0,assassin|death of child|iraq|sniper|sniper rifle,2014,Actor in a Leading Role,Bradley Cooper
+83,Robert Zemeckis,Forrest Gump,329691196.0,Comedy|Drama,142.0,amputee|love|vietnam|vietnam war|war hero,1994,Actor in a Leading Role,Tom Hanks
+84,Robert Zemeckis,Forrest Gump,329691196.0,Comedy|Drama,142.0,amputee|love|vietnam|vietnam war|war hero,1994,Actor in a Supporting Role,Gary Sinise
+85,Paul Greengrass,Captain Phillips,107100855.0,Biography|Drama|Thriller,134.0,hijacking|hostage|leader|ship|somalia,2013,Actor in a Supporting Role,Barkhad Abdi
+86,Gabriele Muccino,The Pursuit of Happyness,162586036.0,Biography|Drama,117.0,bus|intern|internship|salesman|stockbroker,2006,Actor in a Leading Role,Will Smith
+87,Clint Eastwood,Changeling,35707327.0,Crime|Drama|Mystery|Thriller,141.0,execution by hanging|los angeles police department|miscarriage of justice|missing child|wrongful conviction,2008,Actress in a Leading Role,Angelina Jolie
+88,Shekhar Kapur,Elizabeth: The Golden Age,16264475.0,Biography|Drama|History|War,114.0,court|intrigue|queen|spain|virgin,2007,Actress in a Leading Role,Cate Blanchett
+89,Steven Zaillian,All the King's Men,7221458.0,Drama|Thriller,128.0,governor|journalist|louisiana|mistress|politician,1949,Actor,Broderick Crawford
+90,Steven Zaillian,All the King's Men,7221458.0,Drama|Thriller,128.0,governor|journalist|louisiana|mistress|politician,1949,Actor in a Supporting Role,John Ireland
+91,Steven Zaillian,All the King's Men,7221458.0,Drama|Thriller,128.0,governor|journalist|louisiana|mistress|politician,1949,Actress in a Supporting Role,Mercedes McCambridge
+92,Don Bluth,Anastasia,58297830.0,Adventure|Animation|Drama|Family|Fantasy|Musical|Mystery|Romance,94.0,amnesia|reference to anastasia romanov|romanov|russia|russian revolution,1956,Actress,Ingrid Bergman
+93,Steven Spielberg,Catch Me If You Can,164435221.0,Biography|Crime|Drama,141.0,attorney|cat and mouse|fbi|pan am|pilot,2002,Actor in a Supporting Role,Christopher Walken
+94,Kathryn Bigelow,Zero Dark Thirty,95720716.0,Drama|History|Thriller,157.0,al qaeda|cia|interrogation|lie|navy seal,2012,Actress in a Leading Role,Jessica Chastain
+95,Martin Scorsese,Casino,42438300.0,Biography|Crime|Drama,178.0,car bomb|card cheat|cash|casino|gambling syndicate,1995,Actress in a Leading Role,Sharon Stone
+96,Cameron Crowe,Jerry Maguire,153620822.0,Comedy|Drama|Romance|Sport,139.0,agent|career|client|fiance|sports agent,1996,Actor in a Leading Role,Tom Cruise
+97,Cameron Crowe,Jerry Maguire,153620822.0,Comedy|Drama|Romance|Sport,139.0,agent|career|client|fiance|sports agent,1996,Actor in a Supporting Role,"Cuba Gooding, Jr."
+98,James L. Brooks,As Good as It Gets,147637474.0,Comedy|Drama|Romance,139.0,dog|friendship|neighbor|unlikely friendship|writer,1997,Actor in a Leading Role,Jack Nicholson
+99,James L. Brooks,As Good as It Gets,147637474.0,Comedy|Drama|Romance,139.0,dog|friendship|neighbor|unlikely friendship|writer,1997,Actor in a Supporting Role,Greg Kinnear
+100,James L. Brooks,As Good as It Gets,147637474.0,Comedy|Drama|Romance,139.0,dog|friendship|neighbor|unlikely friendship|writer,1997,Actress in a Leading Role,Helen Hunt
+101,Steven Soderbergh,Erin Brockovich,125548685.0,Biography|Drama,131.0,contamination|corporate crime|environmental issue|female protagonist|working single mother,2000,Actor in a Supporting Role,Albert Finney
+102,Steven Soderbergh,Erin Brockovich,125548685.0,Biography|Drama,131.0,contamination|corporate crime|environmental issue|female protagonist|working single mother,2000,Actress in a Leading Role,Julia Roberts
+103,Rob Marshall,Into the Woods,127997349.0,Adventure|Comedy|Drama|Fantasy|Musical,125.0,based on stage musical|cinderella|little red riding hood|singing|witch,2014,Actress in a Supporting Role,Meryl Streep
+104,Bennett Miller,Moneyball,75605492.0,Biography|Drama|Sport,133.0,baseball|meeting|statistics|strategy|voice over,2011,Actor in a Leading Role,Brad Pitt
+105,Bennett Miller,Moneyball,75605492.0,Biography|Drama|Sport,133.0,baseball|meeting|statistics|strategy|voice over,2011,Actor in a Supporting Role,Jonah Hill
+106,Adrian Lyne,Unfaithful,52752475.0,Drama|Thriller,124.0,erotic thriller|infidelity|marital infidelity|unfaithfulness|wife's lover murdered by husband,2002,Actress in a Leading Role,Diane Lane
+107,Stephen Gaghan,Syriana,50815288.0,Drama|Thriller,128.0,cia|hezbollah|lebanon|oil|prince,2005,Actor in a Supporting Role,George Clooney
+108,Stephen Gaghan,Syriana,50815288.0,Drama|Thriller,128.0,cia|hezbollah|lebanon|oil|prince,2005,Actor in a Supporting Role,George Clooney
+109,David Dobkin,The Judge,47105085.0,Crime|Drama,141.0,courtroom|dysfunctional family|indiana|lawyer|trial,2014,Actor in a Supporting Role,Robert Duvall
+110,David Cronenberg,Eastern Promises,17114882.0,Crime|Mystery|Thriller,96.0,male pubic hair|pubic hair|russian|sex scene|turkish bath,2007,Actor in a Leading Role,Viggo Mortensen
+111,Steven Soderbergh,Traffic,124107476.0,Crime|Drama|Thriller,190.0,cocaine|drug smuggling|interlinked stories|judge|mexico,2000,Actor in a Supporting Role,Benicio Del Toro
+112,Warren Beatty,Dick Tracy,103738726.0,Action|Comedy|Crime|Music|Romance|Thriller,105.0,crime boss|detective|dick tracy|gangster|orphan,1990,Actor in a Supporting Role,Al Pacino
+113,Joel Schumacher,The Client,92115211.0,Crime|Drama|Mystery|Thriller,119.0,boy|brother|lawyer|mafia|senator,1994,Actress in a Leading Role,Susan Sarandon
+114,Antoine Fuqua,Training Day,76261036.0,Crime|Drama|Thriller,122.0,lapd|narc|narcotics|title spoken by character|training,2001,Actor in a Leading Role,Denzel Washington
+115,Antoine Fuqua,Training Day,76261036.0,Crime|Drama|Thriller,122.0,lapd|narc|narcotics|title spoken by character|training,2001,Actor in a Supporting Role,Ethan Hawke
+116,Sam Mendes,Revolutionary Road,22877808.0,Drama|Romance,119.0,based on novel|children|connecticut|suburb|work,2008,Actor in a Supporting Role,Michael Shannon
+117,Susan Stroman,The Producers,19377727.0,Comedy|Musical,134.0,accountant|money|opening night|scheme|swedish,1968,Actor in a Supporting Role,Gene Wilder
+118,Oliver Stone,Nixon,13560960.0,Biography|Drama|History,212.0,courtship|election|paranoia|president|quaker,1995,Actor in a Leading Role,Anthony Hopkins
+119,Oliver Stone,Nixon,13560960.0,Biography|Drama|History,212.0,courtship|election|paranoia|president|quaker,1995,Actress in a Supporting Role,Joan Allen
+120,Ben Affleck,Argo,136019448.0,Biography|Drama|History|Thriller,130.0,1970s|cia|f word|u.s. embassy|year 1979,2012,Actor in a Supporting Role,Alan Arkin
+121,Andrew Davis,The Fugitive,183875760.0,Action|Adventure|Crime|Drama|Mystery|Thriller,130.0,hospital|on the run|one armed man|surgeon|u.s. marshal,1993,Actor in a Supporting Role,Tommy Lee Jones
+122,Sydney Pollack,The Firm,158348400.0,Drama|Mystery|Thriller,154.0,bar|fbi|law|law firm|lawyer,1993,Actress in a Supporting Role,Holly Hunter
+123,Joseph L. Mankiewicz,Cleopatra,57750000.0,Biography|Drama|History|Romance,251.0,cleopatra|egypt|epic|queen|roman empire,1963,Actor,Rex Harrison
+124,Barbra Streisand,The Mirror Has Two Faces,41252428.0,Comedy|Drama|Romance,122.0,columbia university|lecture|marriage|professor|sex,1996,Actress in a Supporting Role,Lauren Bacall
+125,M. Night Shyamalan,The Sixth Sense,293501675.0,Drama|Mystery|Thriller,107.0,able to see the dead|ghost|plot twist|psychic|surprise ending,1999,Actor in a Supporting Role,Haley Joel Osment
+126,M. Night Shyamalan,The Sixth Sense,293501675.0,Drama|Mystery|Thriller,107.0,able to see the dead|ghost|plot twist|psychic|surprise ending,1999,Actress in a Supporting Role,Toni Collette
+127,John G. Avildsen,The Karate Kid,90800000.0,Action|Drama|Family|Sport,126.0,apartment|bully|fight|karate|master,1984,Actor in a Supporting Role,Noriyuki 'Pat' Morita
+128,John G. Avildsen,The Karate Kid,90800000.0,Action|Drama|Family|Sport,126.0,apartment|bully|fight|karate|master,1984,Actor in a Supporting Role,Noriyuki 'Pat' Morita
+129,David O. Russell,American Hustle,150117807.0,Crime|Drama,138.0,based on true story|con artist|drunk wife|fbi investigation|scam,2013,Actor in a Leading Role,Christian Bale
+130,David O. Russell,American Hustle,150117807.0,Crime|Drama,138.0,based on true story|con artist|drunk wife|fbi investigation|scam,2013,Actor in a Supporting Role,Bradley Cooper
+131,David O. Russell,American Hustle,150117807.0,Crime|Drama,138.0,based on true story|con artist|drunk wife|fbi investigation|scam,2013,Actress in a Leading Role,Amy Adams
+132,David O. Russell,American Hustle,150117807.0,Crime|Drama,138.0,based on true story|con artist|drunk wife|fbi investigation|scam,2013,Actress in a Supporting Role,Jennifer Lawrence
+133,David Fincher,The Social Network,96917897.0,Biography|Drama,120.0,competitiveness|creator|entrepreneur|facebook|intellectual property,2010,Actor in a Leading Role,Jesse Eisenberg
+134,Nora Ephron,Julie & Julia,94125426.0,Biography|Drama|Romance,123.0,american|blog|book|cook|cooking,2009,Actress in a Leading Role,Meryl Streep
+135,Anthony Minghella,The Talented Mr. Ripley,81292135.0,Crime|Drama|Thriller,139.0,1950s|italy|mistaken identity|nudity|sociopath,1999,Actor in a Supporting Role,Jude Law
+136,Taylor Hackford,Ray,75305995.0,Biography|Drama|Music,178.0,1950s|1960s|racism|rhythm and blues|singer,2004,Actor in a Leading Role,Jamie Foxx
+137,Oliver Stone,JFK,70405498.0,Drama|History|Thriller,206.0,death|gay slur|homosexuality|investigation|president,1991,Actor in a Supporting Role,Tommy Lee Jones
+138,Steven Spielberg,Bridge of Spies,72306065.0,Drama|History|Thriller,142.0,cia|cold war|lawyer|negotiation|spy,2015,Actor in a Supporting Role,Mark Rylance
+139,Francis Ford Coppola,The Rainmaker,45856732.0,Crime|Drama|Thriller,135.0,courtroom|domestic violence|insurance company|lawyer|underdog,1956,Actress,Katharine Hepburn
+140,Steven Spielberg,Amistad,44175394.0,Drama|History,155.0,courtroom|mutiny|ship|slave ship|slave trade,1997,Actor in a Supporting Role,Anthony Hopkins
+141,Stephen Daldry,Extremely Loud & Incredibly Close,31836745.0,Adventure|Drama|Mystery,129.0,fear|mourning|mute|quest|revelation,2011,Actor in a Supporting Role,Max von Sydow
+142,Roger Michell,Morning Glory,30993544.0,Comedy|Drama|Romance,107.0,job offer|roller coaster|slow motion action scene|slow motion sequence|television,1932/1933,Actress,Katharine Hepburn
+143,Sofia Coppola,Marie Antoinette,15962471.0,Biography|Drama|History|Romance,123.0,austria|cake|france|queen|versailles,1938,Actor in a Supporting Role,Robert Morley
+144,Sofia Coppola,Marie Antoinette,15962471.0,Biography|Drama|History|Romance,123.0,austria|cake|france|queen|versailles,1938,Actress,Norma Shearer
+145,Barbet Schroeder,Kiss of Death,14942422.0,Action|Crime|Thriller,101.0,beard|female nudity|police brutality|stripper|woman in lingerie,1947,Actor in a Supporting Role,Richard Widmark
+146,J.A. Bayona,The Impossible,18996755.0,Drama|Thriller,114.0,christmas|resort|thailand|tourist|tsunami,2012,Actress in a Leading Role,Naomi Watts
+147,Charles Shyer,Alfie,13395939.0,Comedy|Drama|Romance,103.0,best friend|commitment|friend|limousine driver|one night stand,1966,Actor,Michael Caine
+148,Charles Shyer,Alfie,13395939.0,Comedy|Drama|Romance,103.0,best friend|commitment|friend|limousine driver|one night stand,1966,Actress in a Supporting Role,Vivien Merchant
+149,Norman Jewison,The Hurricane,50668906.0,Biography|Drama|Sport,146.0,african american|book|boxer|boxing|murder,1937,Actor in a Supporting Role,Thomas Mitchell
+150,Norman Jewison,The Hurricane,50668906.0,Biography|Drama|Sport,146.0,african american|book|boxer|boxing|murder,1999,Actor in a Leading Role,Denzel Washington
+151,Paul Thomas Anderson,The Master,16377274.0,Drama,144.0,drifter|past life regression|psychological testing|right hand man|scientology,2012,Actor in a Leading Role,Joaquin Phoenix
+152,Paul Thomas Anderson,The Master,16377274.0,Drama,144.0,drifter|past life regression|psychological testing|right hand man|scientology,2012,Actor in a Supporting Role,Philip Seymour Hoffman
+153,Paul Thomas Anderson,The Master,16377274.0,Drama,144.0,drifter|past life regression|psychological testing|right hand man|scientology,2012,Actress in a Supporting Role,Amy Adams
+154,Ryan Coogler,Creed,109712885.0,Drama|Sport,133.0,boxing|boxing match|fight|montage|philadelphia,2015,Actor in a Supporting Role,Sylvester Stallone
+155,Ben Affleck,The Town,92173235.0,Crime|Drama|Thriller,150.0,bank manager|bank robbery|criminal gang|heist|prison,2010,Actor in a Supporting Role,Jeremy Renner
+156,Paul Thomas Anderson,Magnolia,22450975.0,Drama,188.0,abusive father|coincidence|fictional game show|fictional quiz show|multiple storyline,1999,Actor in a Supporting Role,Tom Cruise
+157,Rob Reiner,Ghosts of Mississippi,13052741.0,Drama|History,130.0,activist|assassin|civil rights|trial|widow,1996,Actor in a Supporting Role,James Woods
+158,John Lee Hancock,The Blind Side,255950375.0,Biography|Drama|Sport,129.0,american football|based on true story|football star|high school football|left tackle,2009,Actress in a Leading Role,Sandra Bullock
+159,Ethan Coen,True Grit,171031347.0,Adventure|Drama|Western,110.0,arkansas|murder|sheriff|texas ranger|u.s. marshal,1969,Actor,John Wayne
+160,Ethan Coen,True Grit,171031347.0,Adventure|Drama|Western,110.0,arkansas|murder|sheriff|texas ranger|u.s. marshal,2010,Actor in a Leading Role,Jeff Bridges
+161,Ethan Coen,True Grit,171031347.0,Adventure|Drama|Western,110.0,arkansas|murder|sheriff|texas ranger|u.s. marshal,2010,Actress in a Supporting Role,Hailee Steinfeld
+162,David Frankel,The Devil Wears Prada,124732962.0,Comedy|Drama|Romance,109.0,fashion|fashion industry|magazine|new york city|publishing,2006,Actress in a Leading Role,Meryl Streep
+163,Martin Scorsese,Cape Fear,79100000.0,Crime|Thriller,128.0,lawyer|neo noir|prison|rapist|southern gothic,1991,Actor in a Leading Role,Robert De Niro
+164,Martin Scorsese,Cape Fear,79100000.0,Crime|Thriller,128.0,lawyer|neo noir|prison|rapist|southern gothic,1991,Actress in a Supporting Role,Juliette Lewis
+165,Anthony Minghella,The English Patient,78651430.0,Drama|Romance|War,162.0,church|english|flashback|nurse|patient,1996,Actor in a Leading Role,Ralph Fiennes
+166,Anthony Minghella,The English Patient,78651430.0,Drama|Romance|War,162.0,church|english|flashback|nurse|patient,1996,Actress in a Leading Role,Kristin Scott Thomas
+167,Anthony Minghella,The English Patient,78651430.0,Drama|Romance|War,162.0,church|english|flashback|nurse|patient,1996,Actress in a Supporting Role,Juliette Binoche
+168,Curtis Hanson,L.A. Confidential,64604977.0,Crime|Drama|Mystery|Thriller,138.0,1950s|call girl|corruption|murder|police detective,1997,Actress in a Supporting Role,Kim Basinger
+169,Frank Oz,In & Out,63826569.0,Comedy,90.0,academy award|gay|high school|reporter|teacher,1997,Actress in a Supporting Role,Joan Cusack
+170,Spike Lee,Malcolm X,48169908.0,Biography|Drama|History|Romance,202.0,african american|black history|civil rights|ku klux klan|nation of islam,1992,Actor in a Leading Role,Denzel Washington
+171,Roman Polanski,The Pianist,32519322.0,Biography|Drama|War,150.0,ghetto|holocaust|jewish|piano|warsaw ghetto,2002,Actor in a Leading Role,Adrien Brody
+172,Mike Nichols,Closer,33987757.0,Drama|Romance,98.0,cheating wife|film camera|hasselblad camera|leica camera|medium format camera,2004,Actor in a Supporting Role,Clive Owen
+173,Mike Nichols,Closer,33987757.0,Drama|Romance,98.0,cheating wife|film camera|hasselblad camera|leica camera|medium format camera,2004,Actress in a Supporting Role,Natalie Portman
+174,Alejandro G. IÌ±ÌÁrritu,Biutiful,5100937.0,Drama,148.0,children|chinese|illegal immigrant|immigrant|male ponytail,2010,Actor in a Leading Role,Javier Bardem
+175,Martin Scorsese,The Age of Innocence,32000000.0,Drama|Romance,139.0,19th century|countess|lawyer|love|new york,1993,Actress in a Supporting Role,Winona Ryder
+176,Warren Beatty,Reds,,Biography|Drama|History|Romance,195.0,cold war|cold war era|interview|russia|written and directed by cast member,1981,Actor in a Leading Role,Warren Beatty
+177,Warren Beatty,Reds,,Biography|Drama|History|Romance,195.0,cold war|cold war era|interview|russia|written and directed by cast member,1981,Actor in a Supporting Role,Jack Nicholson
+178,Warren Beatty,Reds,,Biography|Drama|History|Romance,195.0,cold war|cold war era|interview|russia|written and directed by cast member,1981,Actress in a Leading Role,Diane Keaton
+179,Warren Beatty,Reds,,Biography|Drama|History|Romance,195.0,cold war|cold war era|interview|russia|written and directed by cast member,1981,Actress in a Supporting Role,Maureen Stapleton
+180,Rob Reiner,A Few Good Men,141340178.0,Drama|Thriller,138.0,cuba|guantanamo|lance corporal|lawyer|murder,1992,Actor in a Supporting Role,Jack Nicholson
+181,Stephen Daldry,The Reader,34180954.0,Drama|Romance,124.0,love|reading|teaching oneself to read|trial|war crime,2008,Actress in a Leading Role,Kate Winslet
+182,Paul Feig,Bridesmaids,169076745.0,Comedy|Romance,131.0,best friend|failure|food|job|partial female nudity,2011,Actress in a Supporting Role,Melissa McCarthy
+183,David Cronenberg,A History of Violence,31493782.0,Crime|Drama|Thriller,96.0,bar|crotch shot|female full frontal nudity|female pubic hair|robbery,2005,Actor in a Supporting Role,William Hurt
+184,Francis Ford Coppola,Apocalypse Now,78800000.0,Drama|War,289.0,army|green beret|insanity|jungle|vietnam,1979,Actor in a Supporting Role,Robert Duvall
+185,Stephen Herek,Mr. Holland's Opus,82528097.0,Drama|Music,143.0,1990s|high school|high school teacher|teacher inspires students|teaching,1995,Actor in a Leading Role,Richard Dreyfuss
+186,Sydney Pollack,Out of Africa,87100000.0,Biography|Drama|Romance,161.0,africa|hunter|love|marriage|plantation,1985,Actor in a Supporting Role,Klaus Maria Brandauer
+187,Sydney Pollack,Out of Africa,87100000.0,Biography|Drama|Romance,161.0,africa|hunter|love|marriage|plantation,1985,Actress in a Leading Role,Meryl Streep
+188,Robert Zemeckis,Flight,93749203.0,Drama|Thriller,138.0,airline|flight|flight attendant|lawyer|pilot,2012,Actor in a Leading Role,Denzel Washington
+189,Rob Marshall,Chicago,170684505.0,Comedy|Crime|Musical,113.0,fame|jail|jazz age|murder|vaudeville,2002,Actor in a Supporting Role,John C. Reilly
+190,Rob Marshall,Chicago,170684505.0,Comedy|Crime|Musical,113.0,fame|jail|jazz age|murder|vaudeville,2002,Actress in a Leading Role,Renée Zellweger
+191,Rob Marshall,Chicago,170684505.0,Comedy|Crime|Musical,113.0,fame|jail|jazz age|murder|vaudeville,2002,Actress in a Supporting Role,Queen Latifah
+192,Rob Marshall,Chicago,170684505.0,Comedy|Crime|Musical,113.0,fame|jail|jazz age|murder|vaudeville,2002,Actress in a Supporting Role,Catherine Zeta-Jones
+193,John Lasseter,Toy Story,191796233.0,Adventure|Animation|Comedy|Family|Fantasy,74.0,claw crane|cowboy|jealousy|rivalry|toy,1995,Special Achievement Award,John Lasseter
+194,Clint Eastwood,Mystic River,90135191.0,Crime|Drama|Mystery|Thriller,138.0,ballistics|detective|friend|gun|sexual abuse,2003,Actor in a Leading Role,Sean Penn
+195,Clint Eastwood,Mystic River,90135191.0,Crime|Drama|Mystery|Thriller,138.0,ballistics|detective|friend|gun|sexual abuse,2003,Actor in a Supporting Role,Tim Robbins
+196,Clint Eastwood,Mystic River,90135191.0,Crime|Drama|Mystery|Thriller,138.0,ballistics|detective|friend|gun|sexual abuse,2003,Actress in a Supporting Role,Marcia Gay Harden
+197,Clint Eastwood,Million Dollar Baby,100422786.0,Drama|Sport,132.0,boxing|boxing trainer|death|suicide attempt|women boxing,2004,Actor in a Leading Role,Clint Eastwood
+198,Clint Eastwood,Million Dollar Baby,100422786.0,Drama|Sport,132.0,boxing|boxing trainer|death|suicide attempt|women boxing,2004,Actor in a Supporting Role,Morgan Freeman
+199,Clint Eastwood,Million Dollar Baby,100422786.0,Drama|Sport,132.0,boxing|boxing trainer|death|suicide attempt|women boxing,2004,Actress in a Leading Role,Hilary Swank
+200,Barbra Streisand,The Prince of Tides,74787599.0,Drama|Romance,132.0,new york|psychiatrist|shrimper|south carolina|twins,1991,Actor in a Leading Role,Nick Nolte
+201,Barbra Streisand,The Prince of Tides,74787599.0,Drama|Romance,132.0,new york|psychiatrist|shrimper|south carolina|twins,1991,Actress in a Supporting Role,Kate Nelligan
+202,Jason Reitman,Up in the Air,83813460.0,Drama|Romance,108.0,airport|business trip|downsizing|on the road|travel,2009,Actor in a Leading Role,George Clooney
+203,Jason Reitman,Up in the Air,83813460.0,Drama|Romance,108.0,airport|business trip|downsizing|on the road|travel,2009,Actress in a Supporting Role,Vera Farmiga
+204,Jason Reitman,Up in the Air,83813460.0,Drama|Romance,108.0,airport|business trip|downsizing|on the road|travel,2009,Actress in a Supporting Role,Anna Kendrick
+205,Alexander Payne,About Schmidt,65010106.0,Comedy|Drama,125.0,highway travel|on the road|retirement|road movie|wedding,2002,Actor in a Leading Role,Jack Nicholson
+206,Alexander Payne,About Schmidt,65010106.0,Comedy|Drama,125.0,highway travel|on the road|retirement|road movie|wedding,2002,Actress in a Supporting Role,Kathy Bates
+207,Chris Noonan,Babe,66600000.0,Comedy|Drama|Family,91.0,dog|farmer|pig|sheep|sheepdog,1995,Actor in a Supporting Role,James Cromwell
+208,Joe Wright,Atonement,50921738.0,Drama|Mystery|Romance|War,123.0,death of sister|dying|loss of virginity|septicemia|sex,2007,Actress in a Supporting Role,Saoirse Ronan
+209,Kimberly Peirce,Carrie,35266619.0,Drama|Fantasy|Horror,100.0,outcast|prom|self injury|telekinesis|tragic event,1976,Actress in a Leading Role,Sissy Spacek
+210,Kimberly Peirce,Carrie,35266619.0,Drama|Fantasy|Horror,100.0,outcast|prom|self injury|telekinesis|tragic event,1976,Actress in a Supporting Role,Piper Laurie
+211,Kimberly Peirce,Carrie,35266619.0,Drama|Fantasy|Horror,100.0,outcast|prom|self injury|telekinesis|tragic event,1976,Actress in a Leading Role,Sissy Spacek
+212,Kimberly Peirce,Carrie,35266619.0,Drama|Fantasy|Horror,100.0,outcast|prom|self injury|telekinesis|tragic event,1976,Actress in a Supporting Role,Piper Laurie
+213,Carl Franklin,One True Thing,23209440.0,Drama,127.0,cancer|job|love|new york|professor,1998,Actress in a Leading Role,Meryl Streep
+214,Niki Caro,North Country,18324242.0,Drama,126.0,based on true story|innocence|lawsuit|mine|sexual harassment,2005,Actress in a Leading Role,Charlize Theron
+215,Niki Caro,North Country,18324242.0,Drama,126.0,based on true story|innocence|lawsuit|mine|sexual harassment,2005,Actress in a Supporting Role,Frances McDormand
+216,Edward Zwick,Glory,26830000.0,Drama|History|War,122.0,army|black soldier|military uniform|prejudice|u.s. civil war,1989,Actor in a Supporting Role,Denzel Washington
+217,Edward Zwick,Glory,26830000.0,Drama|History|War,122.0,army|black soldier|military uniform|prejudice|u.s. civil war,1989,Actor in a Supporting Role,Denzel Washington
+218,Andrew Dominik,The Assassination of Jesse James by the Coward Robert Ford,3904982.0,Biography|Crime|Drama|History|Western,160.0,long title|outlaw|robbery|train|train robbery,2007,Actor in a Supporting Role,Casey Affleck
+219,James Mangold,Walk the Line,119518352.0,Biography|Drama|Music|Romance,153.0,1960s|accident|concert|guitar|prison,2005,Actor in a Leading Role,Joaquin Phoenix
+220,James Mangold,Walk the Line,119518352.0,Biography|Drama|Music|Romance,153.0,1960s|accident|concert|guitar|prison,2005,Actress in a Leading Role,Reese Witherspoon
+221,Ron Howard,Frost/Nixon,18593156.0,Drama,122.0,american president|political drama|scandal|u.s. president|washington post the newspaper,2008,Actor in a Leading Role,Frank Langella
+222,Richard Attenborough,Cry Freedom,5899797.0,Biography|Drama|History,147.0,activist|editor|journalist|newspaper|south africa,1987,Actor in a Supporting Role,Denzel Washington
+223,Adam McKay,The Big Short,70235322.0,Biography|Comedy|Drama|History,130.0,bank|banking|finance|fraud|mortgage,2015,Actor in a Supporting Role,Christian Bale
+224,Joe Wright,Pride & Prejudice,38372662.0,Drama|Romance,135.0,bachelor|england|gentleman|georgian|love,2005,Actress in a Leading Role,Keira Knightley
+225,Michael Caton-Jones,Rob Roy,31600000.0,Adventure|Biography,139.0,18th century|highlands|scotland|sexual cruelty|sword fight,1995,Actor in a Supporting Role,Tim Roth
+226,David Lean,A Passage to India,26400000.0,Adventure|Drama|History,164.0,doctor|english|india|magistrate|mosque,1984,Actress in a Leading Role,Judy Davis
+227,David Lean,A Passage to India,26400000.0,Adventure|Drama|History,164.0,doctor|english|india|magistrate|mosque,1984,Actress in a Supporting Role,Peggy Ashcroft
+228,Richard Eyre,Notes on a Scandal,17508670.0,Crime|Drama|Romance|Thriller,92.0,age difference|school|student|teacher|writing,2006,Actress in a Leading Role,Judi Dench
+229,Richard Eyre,Notes on a Scandal,17508670.0,Crime|Drama|Romance|Thriller,92.0,age difference|school|student|teacher|writing,2006,Actress in a Supporting Role,Cate Blanchett
+230,Philip Kaufman,The Right Stuff,21500000.0,Adventure|Drama|History,193.0,astronaut|sound barrier|space program|u.s. air force|u.s. space program,1983,Actor in a Supporting Role,Sam Shepard
+231,John Madden,Shakespeare in Love,100241322.0,Comedy|Drama|Romance,123.0,actor|audition|muse|playwright|theater,1998,Actor in a Supporting Role,Geoffrey Rush
+232,John Madden,Shakespeare in Love,100241322.0,Comedy|Drama|Romance,123.0,actor|audition|muse|playwright|theater,1998,Actress in a Leading Role,Gwyneth Paltrow
+233,John Madden,Shakespeare in Love,100241322.0,Comedy|Drama|Romance,123.0,actor|audition|muse|playwright|theater,1998,Actress in a Supporting Role,Judi Dench
+234,Fernando Meirelles,The Constant Gardener,33565375.0,Drama|Mystery|Romance|Thriller,129.0,death|diplomat|doctor|kenya|murder,2005,Actress in a Supporting Role,Rachel Weisz
+235,Barry Levinson,Rain Man,172825435.0,Drama,133.0,buick|convertible|last will and testament|savant|travel,1988,Actor in a Leading Role,Dustin Hoffman
+236,Steven Spielberg,Schindler's List,96067179.0,Biography|Drama|History,185.0,german|german soldier|jew|jewish|nazi,1993,Actor in a Leading Role,Liam Neeson
+237,Steven Spielberg,Schindler's List,96067179.0,Biography|Drama|History,185.0,german|german soldier|jew|jewish|nazi,1993,Actor in a Supporting Role,Ralph Fiennes
+238,Tate Taylor,The Help,169705587.0,Drama,146.0,black servant|chocolate pie|jackson mississippi|maid|writing a novel,2011,Actress in a Leading Role,Viola Davis
+239,Tate Taylor,The Help,169705587.0,Drama,146.0,black servant|chocolate pie|jackson mississippi|maid|writing a novel,2011,Actress in a Supporting Role,Jessica Chastain
+240,Tate Taylor,The Help,169705587.0,Drama,146.0,black servant|chocolate pie|jackson mississippi|maid|writing a novel,2011,Actress in a Supporting Role,Octavia Spencer
+241,Brian De Palma,The Untouchables,76270454.0,Crime|Drama|Thriller,119.0,corrupt judge|tax evasion|tough cop|white suit|year 1930,1987,Actor in a Supporting Role,Sean Connery
+242,Ethan Coen,No Country for Old Men,74273505.0,Crime|Drama|Thriller,122.0,coin toss|desert|sheriff|texas|tracking device,2007,Actor in a Supporting Role,Javier Bardem
+243,Sharon Maguire,Bridget Jones's Diary,71500556.0,Comedy|Drama|Romance,97.0,american actress playing british character|book publishing|calorie counting|employer employee relationship|rabbit costume,2001,Actress in a Leading Role,Renée Zellweger
+244,Lasse HallstrÌ¦m,Chocolat,71309760.0,Drama|Romance,121.0,chocolate|chocolate shop|food|france|village,2000,Actress in a Leading Role,Juliette Binoche
+245,Lasse HallstrÌ¦m,Chocolat,71309760.0,Drama|Romance,121.0,chocolate|chocolate shop|food|france|village,2000,Actress in a Supporting Role,Judi Dench
+246,Marc Forster,Finding Neverland,51676606.0,Biography|Drama|Family,101.0,boy|inspiration|reference to peter pan|stage play|widow,2004,Actor in a Leading Role,Johnny Depp
+247,Paul Thomas Anderson,There Will Be Blood,40218903.0,Drama,158.0,alcoholic|alcoholism|money|oil|turn of the century,2007,Actor in a Leading Role,Daniel Day-Lewis
+248,Stephen Daldry,The Hours,41597830.0,Drama|Romance,114.0,housewife|lesbian|novel|party|reading,2002,Actor in a Supporting Role,Ed Harris
+249,Stephen Daldry,The Hours,41597830.0,Drama|Romance,114.0,housewife|lesbian|novel|party|reading,2002,Actress in a Leading Role,Nicole Kidman
+250,Stephen Daldry,The Hours,41597830.0,Drama|Romance,114.0,housewife|lesbian|novel|party|reading,2002,Actress in a Supporting Role,Julianne Moore
+251,Shekhar Kapur,Elizabeth,30012990.0,Biography|Drama|History,124.0,16th century|british royal family|catholic|queen|queen elizabeth i,1998,Actress in a Leading Role,Cate Blanchett
+252,Frank Darabont,The Shawshank Redemption,28341469.0,Crime|Drama,142.0,escape from prison|first person narration|prison|prison cell search|wrongful imprisonment,1994,Actor in a Leading Role,Morgan Freeman
+253,John Wells,August: Osage County,37738400.0,Drama,121.0,based on play|incestuous relationship|pedophilia|secret|teenage daughter,2013,Actress in a Leading Role,Meryl Streep
+254,John Wells,August: Osage County,37738400.0,Drama,121.0,based on play|incestuous relationship|pedophilia|secret|teenage daughter,2013,Actress in a Supporting Role,Julia Roberts
+255,Gavin O'Connor,Warrior,13651662.0,Drama|Sport,140.0,alcoholic|mixed martial arts|return home|tournament|underdog,2011,Actor in a Supporting Role,Nick Nolte
+256,Stephen Frears,Dangerous Liaisons,34700000.0,Drama|Romance,119.0,catholic|corruption|emotional abuse|france|seduction,1988,Actress in a Leading Role,Glenn Close
+257,Stephen Frears,Dangerous Liaisons,34700000.0,Drama|Romance,119.0,catholic|corruption|emotional abuse|france|seduction,1988,Actress in a Supporting Role,Michelle Pfeiffer
+258,Stephen Frears,Dangerous Liaisons,34700000.0,Drama|Romance,119.0,catholic|corruption|emotional abuse|france|seduction,1988,Actress in a Leading Role,Glenn Close
+259,Stephen Frears,Dangerous Liaisons,34700000.0,Drama|Romance,119.0,catholic|corruption|emotional abuse|france|seduction,1988,Actress in a Supporting Role,Michelle Pfeiffer
+260,Terry Gilliam,The Fisher King,41895491.0,Comedy|Drama|Fantasy,137.0,friendship|holy grail|massacre|redemption|video store,1991,Actor in a Leading Role,Robin Williams
+261,Terry Gilliam,The Fisher King,41895491.0,Comedy|Drama|Fantasy,137.0,friendship|holy grail|massacre|redemption|video store,1991,Actress in a Supporting Role,Mercedes Ruehl
+262,James Mangold,"Girl, Interrupted",28871190.0,Biography|Drama,127.0,1960s|father daughter incest|mental hospital|suicide|suicide attempt,1999,Actress in a Supporting Role,Angelina Jolie
+263,Mary McGuckian,The Bridge of San Luis Rey,42880.0,Drama|Romance,120.0,bridge|friar|inquisition|peru|rope bridge,1928/1929,Art Direction,Cedric Gibbons
+264,Jerry Zaks,Marvin's Room,12782508.0,Drama,98.0,house|leukemia|mental institution|nursing home|transplant,1996,Actress in a Leading Role,Diane Keaton
+265,Neil Jordan,The End of the Affair,10660147.0,Drama|Romance,102.0,breasts|jealousy|obsession|sex scene|spiritual,1999,Actress in a Leading Role,Julianne Moore
+266,Paul Haggis,In the Valley of Elah,6777589.0,Crime|Drama|Mystery|Thriller,121.0,detective|iraq|military|murder investigation|police,2007,Actor in a Leading Role,Tommy Lee Jones
+267,Jerry Zucker,Ghost,217631306.0,Drama|Fantasy|Romance|Thriller,127.0,death|film blanc|invisibility|love|unrequited love,1990,Actress in a Supporting Role,Whoopi Goldberg
+268,Clint Eastwood,The Bridges of Madison County,70960517.0,Drama|Romance,135.0,1960s|bridge|housewife|love|photographer,1995,Actress in a Leading Role,Meryl Streep
+269,Richard Attenborough,Gandhi,,Biography|Drama|History,240.0,british|india|indian|muslim|pakistan,1982,Actor in a Leading Role,Ben Kingsley
+270,Jessie Nelson,I Am Sam,40270895.0,Drama,132.0,child custody|custody battle|disability|mentally impaired man|single father,2001,Actor in a Leading Role,Sean Penn
+271,Len Wiseman,Underworld,51483949.0,Action|Fantasy|Thriller,133.0,blood|death|hybrid|vampire|werewolf,1927/1928,Writing (Original Story),Ben Hecht
+272,Richard Attenborough,Shadowlands,25842000.0,Biography|Drama|Romance,115.0,author|book|england|friend|oxford,1993,Actress in a Leading Role,Debra Winger
+273,Tony Gilroy,Michael Clayton,49024969.0,Crime|Drama|Mystery|Thriller,119.0,attorney|debt|fixer|law|law firm,2007,Actor in a Leading Role,George Clooney
+274,Tony Gilroy,Michael Clayton,49024969.0,Crime|Drama|Mystery|Thriller,119.0,attorney|debt|fixer|law|law firm,2007,Actor in a Supporting Role,Tom Wilkinson
+275,Tony Gilroy,Michael Clayton,49024969.0,Crime|Drama|Mystery|Thriller,119.0,attorney|debt|fixer|law|law firm,2007,Actress in a Supporting Role,Tilda Swinton
+276,David O. Russell,Silver Linings Playbook,132088910.0,Comedy|Drama|Romance,122.0,adulterous wife|bipolar disorder|obsessive compulsive personality disorder|unhappy marriage|widow,2012,Actor in a Leading Role,Bradley Cooper
+277,David O. Russell,Silver Linings Playbook,132088910.0,Comedy|Drama|Romance,122.0,adulterous wife|bipolar disorder|obsessive compulsive personality disorder|unhappy marriage|widow,2012,Actor in a Supporting Role,Robert De Niro
+278,David O. Russell,Silver Linings Playbook,132088910.0,Comedy|Drama|Romance,122.0,adulterous wife|bipolar disorder|obsessive compulsive personality disorder|unhappy marriage|widow,2012,Actress in a Leading Role,Jennifer Lawrence
+279,David O. Russell,Silver Linings Playbook,132088910.0,Comedy|Drama|Romance,122.0,adulterous wife|bipolar disorder|obsessive compulsive personality disorder|unhappy marriage|widow,2012,Actress in a Supporting Role,Jacki Weaver
+280,Tomas Alfredson,Tinker Tailor Soldier Spy,24104113.0,Drama|Mystery|Thriller,127.0,cold war|hungary|mole|spy|woman on top,2011,Actor in a Leading Role,Gary Oldman
+281,Colin Higgins,The Best Little Whorehouse in Texas,69700000.0,Comedy|Musical,114.0,chicken|governor|locker room|sheriff|texas,1982,Actor in a Supporting Role,Charles Durning
+282,Steven Spielberg,Close Encounters of the Third Kind,128300000.0,Drama|Sci-Fi,135.0,alien|close encounter of the third kind|mothership|ufo|vision,1977,Actress in a Supporting Role,Melinda Dillon
+283,Jonathan Demme,The Silence of the Lambs,130727000.0,Crime|Drama|Horror|Thriller,138.0,case file|fbi agent|psycho thriller|psychopath|serial killer,1991,Actor in a Leading Role,Anthony Hopkins
+284,Jonathan Demme,The Silence of the Lambs,130727000.0,Crime|Drama|Horror|Thriller,138.0,case file|fbi agent|psycho thriller|psychopath|serial killer,1991,Actress in a Leading Role,Jodie Foster
+285,Alexander Payne,The Descendants,82624961.0,Comedy|Drama,115.0,boating accident|daughters|father daughter relationship|hospital|marriage,2011,Actor in a Leading Role,George Clooney
+286,Steve McQueen,12 Years a Slave,56667870.0,Biography|Drama|History,134.0,racism|separation from family|social injustice|torture|whipping,2013,Actor in a Leading Role,Chiwetel Ejiofor
+287,Steve McQueen,12 Years a Slave,56667870.0,Biography|Drama|History,134.0,racism|separation from family|social injustice|torture|whipping,2013,Actor in a Supporting Role,Michael Fassbender
+288,Steve McQueen,12 Years a Slave,56667870.0,Biography|Drama|History,134.0,racism|separation from family|social injustice|torture|whipping,2013,Actress in a Supporting Role,Lupita Nyong'o
+289,William Friedkin,The French Connection,,Action|Crime|Drama|Thriller,104.0,crime boss|drug smuggling|heroin|mafia boss|organized crime,1971,Actor,Gene Hackman
+290,William Friedkin,The French Connection,,Action|Crime|Drama|Thriller,104.0,crime boss|drug smuggling|heroin|mafia boss|organized crime,1971,Actor in a Supporting Role,Roy Scheider
+291,William Friedkin,The French Connection,,Action|Crime|Drama|Thriller,104.0,crime boss|drug smuggling|heroin|mafia boss|organized crime,1971,Actor,Gene Hackman
+292,William Friedkin,The French Connection,,Action|Crime|Drama|Thriller,104.0,crime boss|drug smuggling|heroin|mafia boss|organized crime,1971,Actor in a Supporting Role,Roy Scheider
+293,Tom McCarthy,Spotlight,44988180.0,Biography|Crime|Drama|History,128.0,cover up|investigation|journalist|newspaper|sexual abuse,2015,Actor in a Supporting Role,Mark Ruffalo
+294,Tom McCarthy,Spotlight,44988180.0,Biography|Crime|Drama|History,128.0,cover up|investigation|journalist|newspaper|sexual abuse,2015,Actress in a Supporting Role,Rachel McAdams
+295,Alejandro G. IÌ±ÌÁrritu,Babel,34300771.0,Drama,143.0,american|destiny|mexican border|multiple perspectives|muslim,2006,Actress in a Supporting Role,Adriana Barraza
+296,Alejandro G. IÌ±ÌÁrritu,Babel,34300771.0,Drama,143.0,american|destiny|mexican border|multiple perspectives|muslim,2006,Actress in a Supporting Role,Rinko Kikuchi
+297,John Patrick Shanley,Doubt,33422556.0,Drama|Mystery,104.0,boy|catholic|nun|priest|student,2008,Actor in a Supporting Role,Philip Seymour Hoffman
+298,John Patrick Shanley,Doubt,33422556.0,Drama|Mystery,104.0,boy|catholic|nun|priest|student,2008,Actress in a Leading Role,Meryl Streep
+299,John Patrick Shanley,Doubt,33422556.0,Drama|Mystery,104.0,boy|catholic|nun|priest|student,2008,Actress in a Supporting Role,Amy Adams
+300,John Patrick Shanley,Doubt,33422556.0,Drama|Mystery,104.0,boy|catholic|nun|priest|student,2008,Actress in a Supporting Role,Viola Davis
+301,Gus Van Sant,Milk,31838002.0,Biography|Drama|History,128.0,california|gay|gay activist|gay pickup|gay rights,2008,Actor in a Leading Role,Sean Penn
+302,Gus Van Sant,Milk,31838002.0,Biography|Drama|History,128.0,california|gay|gay activist|gay pickup|gay rights,2008,Actor in a Supporting Role,Josh Brolin
+303,Michel Gondry,Eternal Sunshine of the Spotless Mind,34126138.0,Drama|Fantasy|Romance|Sci-Fi,108.0,borderline personality disorder|loneliness|memory|playing against type|retrograde narrative,2004,Actress in a Leading Role,Kate Winslet
+304,Alfred Hitchcock,Psycho,32000000.0,Horror|Mystery|Thriller,108.0,money|motel|rain|shower|theft,1960,Actress in a Supporting Role,Janet Leigh
+305,Sean Penn,Into the Wild,18352454.0,Adventure|Biography|Drama,148.0,alaska|based on true story|male nudity|self discovery|wilderness,2007,Actor in a Supporting Role,Hal Holbrook
+306,Alejandro G. IÌ±ÌÁrritu,21 Grams,16248701.0,Drama,124.0,accident|faith|love|mathematician|nonlinear timeline,2003,Actor in a Supporting Role,Benicio Del Toro
+307,Alejandro G. IÌ±ÌÁrritu,21 Grams,16248701.0,Drama,124.0,accident|faith|love|mathematician|nonlinear timeline,2003,Actress in a Leading Role,Naomi Watts
+308,Phillip Noyce,The Quiet American,12987647.0,Drama|Mystery|Romance|Thriller|War,101.0,american|french|saigon|vietnam|vietnamese,2002,Actor in a Leading Role,Michael Caine
+309,Penny Marshall,Big,114968774.0,Comedy|Drama|Family|Fantasy|Romance,130.0,friend|job|new york city|toy|wish,1988,Actor in a Leading Role,Tom Hanks
+310,Milos Forman,Amadeus,51600000.0,Biography|Drama|History|Music,180.0,1800s|classical composer|composer|first person narration|opera,1984,Actor in a Leading Role,F. Murray Abraham
+311,Milos Forman,Amadeus,51600000.0,Biography|Drama|History|Music,180.0,1800s|classical composer|composer|first person narration|opera,1984,Actor in a Leading Role,Tom Hulce
+312,Robert Altman,Gosford Park,41300105.0,Drama|Mystery,131.0,country house|murder|producer|servant|shooting party,2001,Actress in a Supporting Role,Helen Mirren
+313,Robert Altman,Gosford Park,41300105.0,Drama|Mystery,131.0,country house|murder|producer|servant|shooting party,2001,Actress in a Supporting Role,Maggie Smith
+314,Francis Ford Coppola,Peggy Sue Got Married,41382841.0,Comedy|Drama|Fantasy|Romance,103.0,alternate history|alternate timeline|divorce|high school|reunion,1986,Actress in a Leading Role,Kathleen Turner
+315,Alejandro G. IÌ±ÌÁrritu,Birdman or (The Unexpected Virtue of Ignorance),42335698.0,Comedy|Drama|Romance,119.0,actor|artist|broadway play|replacement|stage,2014,Actor in a Leading Role,Michael Keaton
+316,Alejandro G. IÌ±ÌÁrritu,Birdman or (The Unexpected Virtue of Ignorance),42335698.0,Comedy|Drama|Romance,119.0,actor|artist|broadway play|replacement|stage,2014,Actor in a Supporting Role,Edward Norton
+317,Alejandro G. IÌ±ÌÁrritu,Birdman or (The Unexpected Virtue of Ignorance),42335698.0,Comedy|Drama|Romance,119.0,actor|artist|broadway play|replacement|stage,2014,Actress in a Supporting Role,Emma Stone
+318,Woody Allen,Blue Jasmine,33404871.0,Drama,98.0,congenital liar|mental breakdown|self deception|snob|talking to oneself,2013,Actress in a Leading Role,Cate Blanchett
+319,Woody Allen,Blue Jasmine,33404871.0,Drama,98.0,congenital liar|mental breakdown|self deception|snob|talking to oneself,2013,Actress in a Supporting Role,Sally Hawkins
+320,Martin Scorsese,Raging Bull,45250.0,Biography|Drama|Sport,121.0,boxing|domestic violence|hot temper|jealousy|rage,1980,Actor in a Leading Role,Robert De Niro
+321,Martin Scorsese,Raging Bull,45250.0,Biography|Drama|Sport,121.0,boxing|domestic violence|hot temper|jealousy|rage,1980,Actor in a Supporting Role,Joe Pesci
+322,Martin Scorsese,Raging Bull,45250.0,Biography|Drama|Sport,121.0,boxing|domestic violence|hot temper|jealousy|rage,1980,Actress in a Supporting Role,Cathy Moriarty
+323,Danny Boyle,127 Hours,18329466.0,Adventure|Biography|Drama|Thriller,94.0,alone|aron ralston|based on autobiography|canyon|survival,2010,Actor in a Leading Role,James Franco
+324,Danny Boyle,Steve Jobs,17750583.0,Biography|Drama,122.0,apple computer|box office flop|computer|dialogue driven|father daughter relationship,2015,Actor in a Leading Role,Michael Fassbender
+325,Danny Boyle,Steve Jobs,17750583.0,Biography|Drama,122.0,apple computer|box office flop|computer|dialogue driven|father daughter relationship,2015,Actress in a Supporting Role,Kate Winslet
+326,IstvÌÁn SzabÌ_,Being Julia,7739049.0,Comedy|Drama|Romance,104.0,diva|marriage|open marriage|revenge|social climber,2004,Actress in a Leading Role,Annette Bening
+327,Michael Hoffman,The Last Station,6615578.0,Biography|Drama|Romance,112.0,countess|leo tolstoy|russian|wealth|writing,2009,Actor in a Supporting Role,Christopher Plummer
+328,Michael Hoffman,The Last Station,6615578.0,Biography|Drama|Romance,112.0,countess|leo tolstoy|russian|wealth|writing,2009,Actress in a Leading Role,Helen Mirren
+329,Tim Burton,Ed Wood,5887457.0,Biography|Comedy|Drama,127.0,1950s|director|friend|friendship|transvestism,1994,Actor in a Supporting Role,Martin Landau
+330,Kenneth Branagh,Hamlet,4414535.0,Drama,150.0,classic literature|denmark|funeral|madness|prince,1948,Actor,Laurence Olivier
+331,Kenneth Branagh,Hamlet,4414535.0,Drama,150.0,classic literature|denmark|funeral|madness|prince,1948,Actress in a Supporting Role,Jean Simmons
+332,Kenneth Branagh,Hamlet,4414535.0,Drama,150.0,classic literature|denmark|funeral|madness|prince,1948,Actor,Laurence Olivier
+333,Kenneth Branagh,Hamlet,4414535.0,Drama,150.0,classic literature|denmark|funeral|madness|prince,1948,Actress in a Supporting Role,Jean Simmons
+334,Terry George,Hotel Rwanda,23472900.0,Drama|History|War,121.0,atrocity|central africa|ethnic warfare|united nations peace keeping force|united nations soldier,2004,Actor in a Leading Role,Don Cheadle
+335,Terry George,Hotel Rwanda,23472900.0,Drama|History|War,121.0,atrocity|central africa|ethnic warfare|united nations peace keeping force|united nations soldier,2004,Actress in a Supporting Role,Sophie Okonedo
+336,James Cameron,Aliens,85200000.0,Action|Adventure|Sci-Fi,154.0,alien|human versus alien|monster|rescue mission|space marine,1986,Actress in a Leading Role,Sigourney Weaver
+337,George Cukor,My Fair Lady,72000000.0,Drama|Family|Musical|Romance,170.0,colonel|flower girl|professor|street|wager,1964,Actor,Rex Harrison
+338,George Cukor,My Fair Lady,72000000.0,Drama|Family|Musical|Romance,170.0,colonel|flower girl|professor|street|wager,1964,Actor in a Supporting Role,Stanley Holloway
+339,George Cukor,My Fair Lady,72000000.0,Drama|Family|Musical|Romance,170.0,colonel|flower girl|professor|street|wager,1964,Actress in a Supporting Role,Gladys Cooper
+340,Alexander Payne,Sideways,71502303.0,Adventure|Comedy|Drama|Romance,126.0,actor|california|teacher|wine|writer,2004,Actor in a Supporting Role,Thomas Haden Church
+341,Alexander Payne,Sideways,71502303.0,Adventure|Comedy|Drama|Romance,126.0,actor|california|teacher|wine|writer,2004,Actress in a Supporting Role,Virginia Madsen
+342,Sam Raimi,A Simple Plan,16311763.0,Crime|Drama|Thriller,121.0,bag of money|found money|minnesota|screenplay adapted by author|snow,1998,Actor in a Supporting Role,Billy Bob Thornton
+343,Oliver Stone,Wall Street,43848100.0,Crime|Drama,126.0,1980s|argument|critique of capitalism|f word|fired from the job,1987,Actor in a Leading Role,Michael Douglas
+344,Ang Lee,Sense and Sensibility,42700000.0,Drama|Romance,136.0,1810s|female protagonist|horseback riding|inheritance|three word title,1995,Actress in a Leading Role,Emma Thompson
+345,Ang Lee,Sense and Sensibility,42700000.0,Drama|Romance,136.0,1810s|female protagonist|horseback riding|inheritance|three word title,1995,Actress in a Supporting Role,Kate Winslet
+346,Vadim Perelman,House of Sand and Fog,13005485.0,Drama,126.0,auction|home|house|iranian|marriage,2003,Actor in a Leading Role,Ben Kingsley
+347,Vadim Perelman,House of Sand and Fog,13005485.0,Drama,126.0,auction|home|house|iranian|marriage,2003,Actress in a Supporting Role,Shohreh Aghdashloo
+348,Peter Weir,Dead Poets Society,95860116.0,Comedy|Drama,128.0,education|english teacher|poet|professor|student,1989,Actor in a Leading Role,Robin Williams
+349,Sidney Lumet,The Verdict,54000000.0,Drama,129.0,archdiocese|court|hospital|lawyer|malpractice,1982,Actor in a Leading Role,Paul Newman
+350,Sidney Lumet,The Verdict,54000000.0,Drama,129.0,archdiocese|court|hospital|lawyer|malpractice,1982,Actor in a Supporting Role,James Mason
+351,Michel Hazanavicius,The Artist,44667095.0,Comedy|Drama|Romance,100.0,1920s|jack russell terrier|modern silent movie|movie star|movie studio,2011,Actor in a Leading Role,Jean Dujardin
+352,Michel Hazanavicius,The Artist,44667095.0,Comedy|Drama|Romance,100.0,1920s|jack russell terrier|modern silent movie|movie star|movie studio,2011,Actress in a Supporting Role,Bérénice Bejo
+353,Woody Allen,Vicky Cristina Barcelona,23213577.0,Drama|Romance,96.0,art|artist|painter|sex|summer,2008,Actress in a Supporting Role,Penélope Cruz
+354,Jonathan Demme,Philadelphia,77324422.0,Drama,125.0,aids|city name in title|gay|homophobia|lawyer,1993,Actor in a Leading Role,Tom Hanks
+355,Sydney Pollack,Tootsie,177200000.0,Comedy|Drama|Romance,116.0,actor|actress|friend|love|reputation,1982,Actor in a Leading Role,Dustin Hoffman
+356,Sydney Pollack,Tootsie,177200000.0,Comedy|Drama|Romance,116.0,actor|actress|friend|love|reputation,1982,Actress in a Supporting Role,Teri Garr
+357,Sydney Pollack,Tootsie,177200000.0,Comedy|Drama|Romance,116.0,actor|actress|friend|love|reputation,1982,Actress in a Supporting Role,Jessica Lange
+358,Sam Mendes,American Beauty,130058047.0,Drama,122.0,domestic violence|drug dealer|homosexuality|midlife crisis|unfaithfulness,1999,Actor in a Leading Role,Kevin Spacey
+359,Sam Mendes,American Beauty,130058047.0,Drama,122.0,domestic violence|drug dealer|homosexuality|midlife crisis|unfaithfulness,1999,Actress in a Leading Role,Annette Bening
+360,Tom Hooper,The King's Speech,138795342.0,Biography|Drama|History|Romance,118.0,king|king george vi|speech|speech therapist|throne,2010,Actor in a Leading Role,Colin Firth
+361,Tom Hooper,The King's Speech,138795342.0,Biography|Drama|History|Romance,118.0,king|king george vi|speech|speech therapist|throne,2010,Actor in a Supporting Role,Geoffrey Rush
+362,Tom Hooper,The King's Speech,138795342.0,Biography|Drama|History|Romance,118.0,king|king george vi|speech|speech therapist|throne,2010,Actress in a Supporting Role,Helena Bonham Carter
+363,Steven Spielberg,The Color Purple,94175854.0,Drama,154.0,book strap|girl|racial discrimination|racial tension|stereotype,1985,Actress in a Leading Role,Whoopi Goldberg
+364,Steven Spielberg,The Color Purple,94175854.0,Drama,154.0,book strap|girl|racial discrimination|racial tension|stereotype,1985,Actress in a Supporting Role,Margaret Avery
+365,Steven Spielberg,The Color Purple,94175854.0,Drama,154.0,book strap|girl|racial discrimination|racial tension|stereotype,1985,Actress in a Supporting Role,Oprah Winfrey
+366,Morten Tyldum,The Imitation Game,91121452.0,Biography|Drama|Thriller|War,114.0,crossword puzzle|cryptography|enigma code|gay lead character|world war two,2014,Actor in a Leading Role,Benedict Cumberbatch
+367,Morten Tyldum,The Imitation Game,91121452.0,Biography|Drama|Thriller|War,114.0,crossword puzzle|cryptography|enigma code|gay lead character|world war two,2014,Actress in a Supporting Role,Keira Knightley
+368,Howard Zieff,Private Benjamin,69800000.0,Comedy|War,109.0,camera shot of feet|female stockinged feet|loss of husband|pantyhose|suntan pantyhose,1980,Actress in a Leading Role,Goldie Hawn
+369,Howard Zieff,Private Benjamin,69800000.0,Comedy|War,109.0,camera shot of feet|female stockinged feet|loss of husband|pantyhose|suntan pantyhose,1980,Actress in a Supporting Role,Eileen Brennan
+370,Michael Apted,Coal Miner's Daughter,79900000.0,Biography|Drama|Music|Musical,124.0,country music|kissing while having sex|poverty|singer|title based on song,1980,Actress in a Leading Role,Sissy Spacek
+371,Stephen Frears,The Queen,56437947.0,Biography|Drama,94.0,monarchy|prime minister|princess diana|queen|speech,2006,Actress in a Leading Role,Helen Mirren
+372,Gillian Armstrong,Little Women,50003300.0,Drama|Family|Romance,115.0,civil war|female protagonist|post civil war|reference to friedrich schiller|u.s. civil war,1994,Actress in a Leading Role,Winona Ryder
+373,Michael Cimino,The Deer Hunter,,Drama|War,183.0,escape|friend|party|pittsburgh steelers|vietnam,1978,Actor in a Leading Role,Robert De Niro
+374,Michael Cimino,The Deer Hunter,,Drama|War,183.0,escape|friend|party|pittsburgh steelers|vietnam,1978,Actor in a Supporting Role,Christopher Walken
+375,Michael Cimino,The Deer Hunter,,Drama|War,183.0,escape|friend|party|pittsburgh steelers|vietnam,1978,Actress in a Supporting Role,Meryl Streep
+376,Barry Levinson,Wag the Dog,43022524.0,Comedy|Drama,97.0,death|election|hollywood|president|scandal,1997,Actor in a Leading Role,Dustin Hoffman
+377,Brian Gibson,What's Love Got to Do with It,39100956.0,Biography|Drama|Music,118.0,abusive husband|love|singer|tina turner|violence,1993,Actor in a Leading Role,Laurence Fishburne
+378,Brian Gibson,What's Love Got to Do with It,39100956.0,Biography|Drama|Music,118.0,abusive husband|love|singer|tina turner|violence,1993,Actress in a Leading Role,Angela Bassett
+379,James Marsh,The Theory of Everything,35887263.0,Biography|Drama|Romance,123.0,based on memoir|cambridge university|husband wife relationship|lou gehrig's disease|physicist,2014,Actor in a Leading Role,Eddie Redmayne
+380,James Marsh,The Theory of Everything,35887263.0,Biography|Drama|Romance,123.0,based on memoir|cambridge university|husband wife relationship|lou gehrig's disease|physicist,2014,Actress in a Leading Role,Felicity Jones
+381,David Lean,Lawrence of Arabia,6000000.0,Adventure|Biography|Drama|History|War,227.0,arab|british military|desert|ottoman empire|t.e. lawrence,1962,Actor,Peter O'Toole
+382,David Lean,Lawrence of Arabia,6000000.0,Adventure|Biography|Drama|History|War,227.0,arab|british military|desert|ottoman empire|t.e. lawrence,1962,Actor in a Supporting Role,Omar Sharif
+383,Jean-Marc VallÌ©e,Wild,37877959.0,Adventure|Biography|Drama,115.0,female protagonist|grief|hiking|loss of mother|mother daughter relationship,2014,Actress in a Leading Role,Reese Witherspoon
+384,Jean-Marc VallÌ©e,Wild,37877959.0,Adventure|Biography|Drama,115.0,female protagonist|grief|hiking|loss of mother|mother daughter relationship,2014,Actress in a Supporting Role,Laura Dern
+385,James Ivory,The Remains of the Day,22954968.0,Drama|Romance,134.0,butler|housekeeper|manor|servant|service,1993,Actor in a Leading Role,Anthony Hopkins
+386,James Ivory,The Remains of the Day,22954968.0,Drama|Romance,134.0,butler|housekeeper|manor|servant|service,1993,Actress in a Leading Role,Emma Thompson
+387,Paul Thomas Anderson,Boogie Nights,26384919.0,Drama,155.0,1970s|adult entertainment industry|nightclub|porn industry|san fernando valley california,1997,Actor in a Supporting Role,Burt Reynolds
+388,Paul Thomas Anderson,Boogie Nights,26384919.0,Drama,155.0,1970s|adult entertainment industry|nightclub|porn industry|san fernando valley california,1997,Actress in a Supporting Role,Julianne Moore
+389,Kathryn Bigelow,The Hurt Locker,15700000.0,Drama|History|Thriller|War,131.0,army|bomb|dangerous job|death|iraq,2009,Actor in a Leading Role,Jeremy Renner
+390,Terry Gilliam,Brazil,9929000.0,Drama|Sci-Fi,142.0,black comedy|bureaucracy|dream|terrorist|wrongful arrest,1962,Foreign Language Film,Keeper of Promises (The Given Word) 
+391,Terry Gilliam,Brazil,9929000.0,Drama|Sci-Fi,142.0,black comedy|bureaucracy|dream|terrorist|wrongful arrest,1995,Foreign Language Film,O Quatrilho 
+392,Terry Gilliam,Brazil,9929000.0,Drama|Sci-Fi,142.0,black comedy|bureaucracy|dream|terrorist|wrongful arrest,1997,Foreign Language Film,Four Days in September 
+393,Terry Gilliam,Brazil,9929000.0,Drama|Sci-Fi,142.0,black comedy|bureaucracy|dream|terrorist|wrongful arrest,1998,Foreign Language Film,Central Station 
+394,Clint Eastwood,Unforgiven,101157447.0,Drama|Western,131.0,englishman|leaving flowers on a grave|one last job|reputation|visiting wife's grave,1992,Actor in a Leading Role,Clint Eastwood
+395,Clint Eastwood,Unforgiven,101157447.0,Drama|Western,131.0,englishman|leaving flowers on a grave|one last job|reputation|visiting wife's grave,1992,Actor in a Supporting Role,Gene Hackman
+396,Adrian Lyne,Fatal Attraction,156645693.0,Drama|Romance|Thriller,119.0,borderline personality disorder|killing a pet|madame butterfly|new york|new york city,1987,Actress in a Leading Role,Glenn Close
+397,Adrian Lyne,Fatal Attraction,156645693.0,Drama|Romance|Thriller,119.0,borderline personality disorder|killing a pet|madame butterfly|new york|new york city,1987,Actress in a Supporting Role,Anne Archer
+398,Garry Marshall,Pretty Woman,178406268.0,Comedy|Romance,125.0,businessman|falling in love with a prostitute|hotel|prostitute|rich man poor woman,1990,Actress in a Leading Role,Julia Roberts
+399,Oliver Stone,Born on the Fourth of July,70001698.0,Biography|Drama|War,145.0,desert|drunkenness|religious mother|strict mother|vietnam war,1989,Actor in a Leading Role,Tom Cruise
+400,Phyllida Lloyd,The Iron Lady,29959436.0,Biography|Drama|History,105.0,british prime minister|female prime minister|politics|prime minister|told in flashback,2011,Actress in a Leading Role,Meryl Streep
+401,Todd Field,Little Children,5459824.0,Drama|Romance,137.0,adulterous wife|bar|dysfunctional marriage|sex offender|suburb,2006,Actor in a Supporting Role,Jackie Earle Haley
+402,Todd Field,Little Children,5459824.0,Drama|Romance,137.0,adulterous wife|bar|dysfunctional marriage|sex offender|suburb,2006,Actress in a Leading Role,Kate Winslet
+403,Ang Lee,Brokeback Mountain,83025853.0,Drama|Romance,134.0,gay relationship|homosexuality|mountain|ranch|rodeo,2005,Actor in a Leading Role,Heath Ledger
+404,Ang Lee,Brokeback Mountain,83025853.0,Drama|Romance,134.0,gay relationship|homosexuality|mountain|ranch|rodeo,2005,Actor in a Supporting Role,Jake Gyllenhaal
+405,Ang Lee,Brokeback Mountain,83025853.0,Drama|Romance,134.0,gay relationship|homosexuality|mountain|ranch|rodeo,2005,Actress in a Supporting Role,Michelle Williams
+406,Todd Haynes,Far from Heaven,15854988.0,Drama|Romance,107.0,african american|catastrophe|family relationships|farewell scene|therapy,2002,Actress in a Leading Role,Julianne Moore
+407,Philip Kaufman,Quills,7060876.0,Biography|Drama,124.0,asylum|lust|male pubic hair|penis|pubic hair,2000,Actor in a Leading Role,Geoffrey Rush
+408,Barry Levinson,"Good Morning, Vietnam",123922370.0,Biography|Comedy|Drama|War,121.0,disc jockey|friendship|radio|vietnam|vietnamese,1987,Actor in a Leading Role,Robin Williams
+409,Darren Aronofsky,Black Swan,106952327.0,Drama|Thriller,108.0,ballerina|ballet|fear|female protagonist|madness,2010,Actress in a Leading Role,Natalie Portman
+410,Spike Jonze,Being John Malkovich,22858926.0,Comedy|Drama|Fantasy,112.0,body swap|magical realism|portal|puppeteer|surrealism,1999,Actress in a Supporting Role,Catherine Keener
+411,Lenny Abrahamson,Room,14677654.0,Drama,118.0,based on novel|escape|imprisonment|kidnapping|mother son relationship,2015,Actress in a Leading Role,Brie Larson
+412,James Foley,Glengarry Glen Ross,10725228.0,Crime|Drama|Mystery,100.0,office|pressure|real estate|robbery|sales,1992,Actor in a Supporting Role,Al Pacino
+413,William Friedkin,The Exorcist,204565000.0,Horror,132.0,demonic possession|exorcism|exorcist|loss of innocence|priest,1973,Actor in a Supporting Role,Jason Miller
+414,William Friedkin,The Exorcist,204565000.0,Horror,132.0,demonic possession|exorcism|exorcist|loss of innocence|priest,1973,Actress,Ellen Burstyn
+415,William Friedkin,The Exorcist,204565000.0,Horror,132.0,demonic possession|exorcism|exorcist|loss of innocence|priest,1973,Actress in a Supporting Role,Linda Blair
+416,Peter Weir,Witness,65500000.0,Crime|Drama|Romance|Thriller,112.0,amish|love|murder|police|train,1985,Actor in a Leading Role,Harrison Ford
+417,Quentin Tarantino,Jackie Brown,39647595.0,Crime|Thriller,154.0,arms dealer|atf|bail|money|multiple perspectives,1997,Actor in a Supporting Role,Robert Forster
+418,Barbra Streisand,Yentl,30400000.0,Drama|Musical|Romance,132.0,love|study|talmud|wedding|yeshiva,1983,Actress in a Supporting Role,Amy Irving
+419,Franklin J. Schaffner,Patton,,Biography|Drama|War,172.0,allies|dead soldier|destiny|general|tank,1970,Actor,George C. Scott
+420,Julie Taymor,Frida,25776062.0,Biography|Drama|Romance,123.0,art|bisexual|marriage|pain|revolutionary,2002,Actress in a Leading Role,Salma Hayek
+421,Stephen Frears,Philomena,37707719.0,Biography|Drama,98.0,catholic|convent|gay love|gay relationship|irish adoption board,2013,Actress in a Leading Role,Judi Dench
+422,Franklin J. Schaffner,The Boys from Brazil,,Drama|Thriller,125.0,1970s|jew|nazi|nazi hunter|paraguay,1978,Actor in a Leading Role,Laurence Olivier
+423,Alexander Payne,Nebraska,17613460.0,Adventure|Comedy|Drama,115.0,aging|billings montana|lincoln nebraska|nebraska|pickup truck,2013,Actor in a Leading Role,Bruce Dern
+424,Alexander Payne,Nebraska,17613460.0,Adventure|Comedy|Drama,115.0,aging|billings montana|lincoln nebraska|nebraska|pickup truck,2013,Actress in a Supporting Role,June Squibb
+425,Jonathan Demme,Rachel Getting Married,12796277.0,Drama|Romance,113.0,12 step program|friend|maid of honor|tears|wedding,2008,Actress in a Leading Role,Anne Hathaway
+426,David Lean,Doctor Zhivago,111722000.0,Drama|Romance|War,200.0,bolshevik|poet|poetry|russia|russian revolution,1965,Actor in a Supporting Role,Tom Courtenay
+427,David O. Russell,The Fighter,93571803.0,Biography|Drama|Sport,116.0,boxer|boxing|boxing match|crack cocaine|lowell massachusetts,2010,Actor in a Supporting Role,Christian Bale
+428,David O. Russell,The Fighter,93571803.0,Biography|Drama|Sport,116.0,boxer|boxing|boxing match|crack cocaine|lowell massachusetts,2010,Actress in a Supporting Role,Amy Adams
+429,David O. Russell,The Fighter,93571803.0,Biography|Drama|Sport,116.0,boxer|boxing|boxing match|crack cocaine|lowell massachusetts,2010,Actress in a Supporting Role,Melissa Leo
+430,Jonathan Lynn,My Cousin Vinny,52929168.0,Comedy|Crime,120.0,alabama|jail|judicial system|lawyer|trial,1992,Actress in a Supporting Role,Marisa Tomei
+431,Tim Robbins,Dead Man Walking,39025000.0,Crime|Drama,122.0,death|execution|nun|solitary confinement|visit,1995,Actor in a Leading Role,Sean Penn
+432,Tim Robbins,Dead Man Walking,39025000.0,Crime|Drama,122.0,death|execution|nun|solitary confinement|visit,1995,Actress in a Leading Role,Susan Sarandon
+433,John Crowley,Brooklyn,38317535.0,Drama|Romance,111.0,1950s|immigrant|irish|irish accent|torn between two worlds,2015,Actress in a Leading Role,Saoirse Ronan
+434,Bill Condon,Kinsey,10214647.0,Biography|Drama,118.0,professor|research|sex|sexuality|student,2004,Actress in a Supporting Role,Laura Linney
+435,Lasse HallstrÌ¦m,What's Eating Gilbert Grape,9170214.0,Drama|Romance,118.0,apostrophe in title|face slap|four word title|grocery store|police,1993,Actor in a Supporting Role,Leonardo DiCaprio
+436,Mike Leigh,Vera Drake,3753806.0,Crime|Drama,125.0,1950s|miscarriage|neighbor|pregnancy|tailor,2004,Actress in a Leading Role,Imelda Staunton
+437,Gus Van Sant,Good Will Hunting,138339411.0,Drama,126.0,friend|genius|janitor|loss of wife|professor,1997,Actor in a Leading Role,Matt Damon
+438,Gus Van Sant,Good Will Hunting,138339411.0,Drama,126.0,friend|genius|janitor|loss of wife|professor,1997,Actor in a Supporting Role,Robin Williams
+439,Gus Van Sant,Good Will Hunting,138339411.0,Drama,126.0,friend|genius|janitor|loss of wife|professor,1997,Actress in a Supporting Role,Minnie Driver
+440,Martin Scorsese,The Color of Money,52293982.0,Drama|Sport,119.0,hustler|losing|pool|pool player|tournament,1986,Actor in a Leading Role,Paul Newman
+441,Martin Scorsese,The Color of Money,52293982.0,Drama|Sport,119.0,hustler|losing|pool|pool player|tournament,1986,Actress in a Supporting Role,Mary Elizabeth Mastrantonio
+442,Carol Reed,Oliver!,16800000.0,Drama|Family|Musical,153.0,abuse|child|orphan|orphanage|pickpocket,1968,Actor,Ron Moody
+443,Carol Reed,Oliver!,16800000.0,Drama|Family|Musical,153.0,abuse|child|orphan|orphanage|pickpocket,1968,Actor in a Supporting Role,Jack Wild
+444,Carol Reed,Oliver!,16800000.0,Drama|Family|Musical,153.0,abuse|child|orphan|orphanage|pickpocket,1968,Honorary Award,Onna White
+445,Simon Curtis,My Week with Marilyn,14597405.0,Biography|Drama,99.0,actress|assistant director|blonde bombshell|movie star|wardrobe,2011,Actor in a Supporting Role,Kenneth Branagh
+446,Simon Curtis,My Week with Marilyn,14597405.0,Biography|Drama,99.0,actress|assistant director|blonde bombshell|movie star|wardrobe,2011,Actress in a Leading Role,Michelle Williams
+447,Tony Kaye,American History X,6712241.0,Crime|Drama,101.0,curb stomping|neo nazi|prison|son dislikes mother's boyfriend|white supremacist,1998,Actor in a Leading Role,Edward Norton
+448,Timothy BjÌ¦rklund,Teacher's Pet,6491350.0,Animation|Comedy|Family|Fantasy|Musical,74.0,dog|florida|mad scientist|school|teacher,1958,Actor in a Supporting Role,Gig Young
+449,David Lynch,The Straight Story,6197866.0,Biography|Drama,112.0,cane|iowa|lawn mower|tractor|wisconsin,1999,Actor in a Leading Role,Richard Farnsworth
+450,Paul Haggis,Crash,54557348.0,Crime|Drama|Thriller,115.0,race relations|racism|racist|social problem|stereotype,2005,Actor in a Supporting Role,Matt Dillon
+451,Paul Haggis,Crash,54557348.0,Crime|Drama|Thriller,115.0,race relations|racism|racist|social problem|stereotype,2005,Actor in a Supporting Role,Matt Dillon
+452,Chris Weitz,A Better Life,1754319.0,Drama|Romance,98.0,gang|gardener|money|police|truck,2011,Actor in a Leading Role,Demián Bichir
+453,Michael Haneke,Amour,225377.0,Drama|Romance,127.0,aging|daughter|old couple|old love|stroke,2012,Actress in a Leading Role,Emmanuelle Riva
+454,Pedro AlmodÌ_var,Volver,12899702.0,Comedy|Crime|Drama|Mystery,121.0,abusive father|child abuse|death|rape|secret,2006,Actress in a Leading Role,Penélope Cruz
+455,Richard Loncraine,Richard III,2600000.0,Drama|War,104.0,1930s|abuse of power|england|king|murder,1956,Actor,Sir Laurence Olivier
+456,Norman Jewison,Fiddler on the Roof,50000000.0,Drama|Family|Musical|Romance,181.0,immigration|jewish|pogrom|tradition|tradition versus modernity,1971,Actor,Topol
+457,Norman Jewison,Fiddler on the Roof,50000000.0,Drama|Family|Musical|Romance,181.0,immigration|jewish|pogrom|tradition|tradition versus modernity,1971,Actor in a Supporting Role,Leonard Frey
+458,Malcolm D. Lee,The Best Man,34074895.0,Comedy|Drama,120.0,african american|bachelor party|brooklyn bridge|family relationships|stripper,1964,Actor in a Supporting Role,Lee Tracy
+459,Rod Lurie,The Contender,17804273.0,Drama|Thriller,126.0,bridge|governor|political thriller|president|vice president,2000,Actor in a Supporting Role,Jeff Bridges
+460,Rod Lurie,The Contender,17804273.0,Drama|Thriller,126.0,bridge|governor|political thriller|president|vice president,2000,Actress in a Leading Role,Joan Allen
+461,Kenneth Branagh,Henry V,10161099.0,Action|Biography|Drama|History|Romance|War,137.0,battle|battle of agincourt|king|shakespeare play|sword and shield,1946,Actor,Laurence Olivier
+462,Kenneth Branagh,Henry V,10161099.0,Action|Biography|Drama|History|Romance|War,137.0,battle|battle of agincourt|king|shakespeare play|sword and shield,1946,Special Award,Laurence Olivier
+463,Kenneth Branagh,Henry V,10161099.0,Action|Biography|Drama|History|Romance|War,137.0,battle|battle of agincourt|king|shakespeare play|sword and shield,1989,Actor in a Leading Role,Kenneth Branagh
+464,Tamara Jenkins,The Savages,6610326.0,Comedy|Drama,114.0,arizona|dementia|married man|sun city arizona|writing,2007,Actress in a Leading Role,Laura Linney
+465,Scott Cooper,Crazy Heart,39462438.0,Drama|Music|Romance,112.0,country music|country western singer|journalist|musician|singer,2009,Actor in a Leading Role,Jeff Bridges
+466,Scott Cooper,Crazy Heart,39462438.0,Drama|Music|Romance,112.0,country music|country western singer|journalist|musician|singer,2009,Actress in a Supporting Role,Maggie Gyllenhaal
+467,Mark Rydell,The Rose,29200000.0,Drama|Music|Romance,125.0,awol|demand|driver|drugs|roses,1979,Actor in a Supporting Role,Frederic Forrest
+468,Mark Rydell,The Rose,29200000.0,Drama|Music|Romance,125.0,awol|demand|driver|drugs|roses,1979,Actress in a Leading Role,Bette Midler
+469,Mervyn LeRoy,Quo Vadis,,Biography|Drama|History|Romance,171.0,christian|emperor|general|hostage|nero,1951,Actor in a Supporting Role,Leo Genn
+470,Mervyn LeRoy,Quo Vadis,,Biography|Drama|History|Romance,171.0,christian|emperor|general|hostage|nero,1951,Actor in a Supporting Role,Peter Ustinov
+471,Quentin Tarantino,Pulp Fiction,107930000.0,Crime|Drama,178.0,black comedy|cunnilingus|neo noir|nonlinear timeline|postmodern,1994,Actor in a Leading Role,John Travolta
+472,Quentin Tarantino,Pulp Fiction,107930000.0,Crime|Drama,178.0,black comedy|cunnilingus|neo noir|nonlinear timeline|postmodern,1994,Actor in a Supporting Role,Samuel L. Jackson
+473,Quentin Tarantino,Pulp Fiction,107930000.0,Crime|Drama,178.0,black comedy|cunnilingus|neo noir|nonlinear timeline|postmodern,1994,Actress in a Supporting Role,Uma Thurman
+474,Robert Wise,The Sound of Music,163214286.0,Biography|Drama|Family|Musical|Romance,174.0,austria|children|governess|love|orchestral music score,1965,Actress,Julie Andrews
+475,Robert Wise,The Sound of Music,163214286.0,Biography|Drama|Family|Musical|Romance,174.0,austria|children|governess|love|orchestral music score,1965,Actress in a Supporting Role,Peggy Wood
+476,Jonathan Dayton,Little Miss Sunshine,59889948.0,Comedy|Drama,101.0,gay|graduate student|sister sister relationship|sprite|uncle nephew relationship,2006,Actor in a Supporting Role,Alan Arkin
+477,Jonathan Dayton,Little Miss Sunshine,59889948.0,Comedy|Drama,101.0,gay|graduate student|sister sister relationship|sprite|uncle nephew relationship,2006,Actress in a Supporting Role,Abigail Breslin
+478,E. Elias Merhige,Shadow of the Vampire,8279017.0,Drama|Horror,92.0,actor|breasts|film actress|nosferatu|vampire,2000,Actor in a Supporting Role,Willem Dafoe
+479,James Ivory,Howards End,25967000.0,Drama|Romance,140.0,england|friendship|prejudice|upper class|working class,1992,Actress in a Leading Role,Emma Thompson
+480,James Ivory,Howards End,25967000.0,Drama|Romance,140.0,england|friendship|prejudice|upper class|working class,1992,Actress in a Supporting Role,Vanessa Redgrave
+481,Bruce Beresford,Driving Miss Daisy,106593296.0,Comedy|Drama|Family,99.0,1950s|african american|jewish|old age|widow,1989,Actor in a Leading Role,Morgan Freeman
+482,Bruce Beresford,Driving Miss Daisy,106593296.0,Comedy|Drama|Family,99.0,1950s|african american|jewish|old age|widow,1989,Actor in a Supporting Role,Dan Aykroyd
+483,Bruce Beresford,Driving Miss Daisy,106593296.0,Comedy|Drama|Family,99.0,1950s|african american|jewish|old age|widow,1989,Actress in a Leading Role,Jessica Tandy
+484,Lone Scherfig,An Education,12574715.0,Drama,100.0,1960s|age difference|france|loss of virginity|oxford,2009,Actress in a Leading Role,Carey Mulligan
+485,Rodrigo GarcÌ_a,Albert Nobbs,3014541.0,Drama,113.0,19th century|hotel|painter|waiter|woman pretending to be a man,2011,Actress in a Leading Role,Glenn Close
+486,Rodrigo GarcÌ_a,Albert Nobbs,3014541.0,Drama,113.0,19th century|hotel|painter|waiter|woman pretending to be a man,2011,Actress in a Supporting Role,Janet McTeer
+487,Daniel Barber,Harry Brown,1818681.0,Action|Crime|Drama|Thriller,97.0,bayonet|death|police|self defense|widower,1949,Writing (Motion Picture Story),Sands of Iwo Jima 
+488,Jason Reitman,Juno,143492840.0,Comedy|Drama|Romance,96.0,adoption|baby|friend|pregnancy|school,2007,Actress in a Leading Role,Ellen Page
+489,Jason Reitman,Juno,143492840.0,Comedy|Drama|Romance,96.0,adoption|baby|friend|pregnancy|school,2007,Actress in a Leading Role,Ellen Page
+490,Francis Ford Coppola,The Godfather,134821952.0,Crime|Drama,175.0,crime family|mafia|organized crime|patriarch|rise to power,1972,Actor,Marlon Brando
+491,Francis Ford Coppola,The Godfather,134821952.0,Crime|Drama,175.0,crime family|mafia|organized crime|patriarch|rise to power,1972,Actor in a Supporting Role,James Caan
+492,Francis Ford Coppola,The Godfather,134821952.0,Crime|Drama,175.0,crime family|mafia|organized crime|patriarch|rise to power,1972,Actor in a Supporting Role,Robert Duvall
+493,Francis Ford Coppola,The Godfather,134821952.0,Crime|Drama,175.0,crime family|mafia|organized crime|patriarch|rise to power,1972,Actor in a Supporting Role,Al Pacino
+494,Jane Campion,The Piano,40158000.0,Drama|Music|Romance,121.0,adultery|daughter|male rear nudity|new zealand|piano,1993,Actress in a Leading Role,Holly Hunter
+495,Jane Campion,The Piano,40158000.0,Drama|Music|Romance,121.0,adultery|daughter|male rear nudity|new zealand|piano,1993,Actress in a Supporting Role,Anna Paquin
+496,George Clooney,"Good Night, and Good Luck.",31501218.0,Biography|Drama|History,93.0,cbs|expose|fear|paranoia|reporter,2005,Actor in a Leading Role,David Strathairn
+497,Bennett Miller,Capote,28747570.0,Biography|Crime|Drama,110.0,book|holcomb kansas|kansas|killer|truman capote,2005,Actor in a Leading Role,Philip Seymour Hoffman
+498,Bennett Miller,Capote,28747570.0,Biography|Crime|Drama,110.0,book|holcomb kansas|kansas|killer|truman capote,2005,Actress in a Supporting Role,Catherine Keener
+499,Tom Ford,A Single Man,9166863.0,Drama|Romance,99.0,car accident|male full back nudity|practicing a suicide|public nudity|suicide contemplation,2009,Actor in a Leading Role,Colin Firth
+500,Oren Moverman,The Messenger,66637.0,Drama|Romance|War,105.0,captain|casualty notification|casualty notification team|sergeant|staff sergeant,2009,Actor in a Supporting Role,Woody Harrelson
+501,Oliver Stone,Platoon,137963328.0,Drama|War,120.0,1960s|famous score|hero|vietnam|vietnam war,1986,Actor in a Supporting Role,Tom Berenger
+502,Oliver Stone,Platoon,137963328.0,Drama|War,120.0,1960s|famous score|hero|vietnam|vietnam war,1986,Actor in a Supporting Role,Willem Dafoe
+503,Robert Stevenson,Mary Poppins,102300000.0,Comedy|Family|Fantasy|Musical,139.0,banker|female protagonist|live action and animation|magic|nanny,1964,Actress,Julie Andrews
+504,Robert Redford,Ordinary People,54800000.0,Drama,124.0,choir|death|friend|suicide|therapy,1980,Actor in a Supporting Role,Judd Hirsch
+505,Robert Redford,Ordinary People,54800000.0,Drama,124.0,choir|death|friend|suicide|therapy,1980,Actor in a Supporting Role,Timothy Hutton
+506,Robert Redford,Ordinary People,54800000.0,Drama,124.0,choir|death|friend|suicide|therapy,1980,Actress in a Leading Role,Mary Tyler Moore
+507,Jerome Robbins,West Side Story,43650000.0,Crime|Drama|Musical|Romance|Thriller,152.0,dance|gang|new york city|puerto rican|tragedy,1961,Actor in a Supporting Role,George Chakiris
+508,Jerome Robbins,West Side Story,43650000.0,Crime|Drama|Musical|Romance|Thriller,152.0,dance|gang|new york city|puerto rican|tragedy,1961,Actress in a Supporting Role,Rita Moreno
+509,Bryan Singer,The Usual Suspects,23272306.0,Crime|Drama|Mystery|Thriller,106.0,criminal|dirty cop|flashback|limping|suspect,1995,Actor in a Supporting Role,Kevin Spacey
+510,Darren Aronofsky,The Wrestler,26236603.0,Drama|Sport,109.0,heart attack|stripper|supermarket|wrestler|wrestling,2008,Actor in a Leading Role,Mickey Rourke
+511,Darren Aronofsky,The Wrestler,26236603.0,Drama|Sport,109.0,heart attack|stripper|supermarket|wrestler|wrestling,2008,Actress in a Supporting Role,Marisa Tomei
+512,King Vidor,Duel in the Sun,20400000.0,Drama|Romance|Western,144.0,box office hit|half breed|infidelity|shooting|texas,1946,Actress,Jennifer Jones
+513,King Vidor,Duel in the Sun,20400000.0,Drama|Romance|Western,144.0,box office hit|half breed|infidelity|shooting|texas,1946,Actress in a Supporting Role,Lillian Gish
+514,Kevin Macdonald,The Last King of Scotland,17605861.0,Biography|Drama|History|Thriller,121.0,1970s|assassination|doctor|scottish|ugandan,2006,Actor in a Leading Role,Forest Whitaker
+515,Ed Harris,Pollock,8596914.0,Biography|Drama,122.0,1940s|artist|drinking|life magazine|painter,2000,Actor in a Leading Role,Ed Harris
+516,Ed Harris,Pollock,8596914.0,Biography|Drama,122.0,1940s|artist|drinking|life magazine|painter,2000,Actress in a Supporting Role,Marcia Gay Harden
+517,Mark Herman,Little Voice,4595000.0,Comedy|Drama|Music|Romance,97.0,mother|recluse|shy|singer|talent,1998,Actress in a Supporting Role,Brenda Blethyn
+518,Fred Zinnemann,Julia,,Drama,117.0,1930s|female protagonist|nazi|romantic friendship|writer,1977,Actor in a Supporting Role,Jason Robards
+519,Fred Zinnemann,Julia,,Drama,117.0,1930s|female protagonist|nazi|romantic friendship|writer,1977,Actor in a Supporting Role,Maximilian Schell
+520,Fred Zinnemann,Julia,,Drama,117.0,1930s|female protagonist|nazi|romantic friendship|writer,1977,Actress in a Leading Role,Jane Fonda
+521,Fred Zinnemann,Julia,,Drama,117.0,1930s|female protagonist|nazi|romantic friendship|writer,1977,Actress in a Supporting Role,Vanessa Redgrave
+522,George Roy Hill,The Sting,159600000.0,Comedy|Crime|Drama,129.0,con|con man|courier|long con|murder,1973,Actor,Robert Redford
+523,Hugh Hudson,Chariots of Fire,58800000.0,Biography|Drama|Sport,125.0,athlete|jew|missionary|olympic games|race,1981,Actor in a Supporting Role,Ian Holm
+524,Scott Hicks,Shine,35811509.0,Biography|Drama|Music|Romance,105.0,abuse|australia|concert|pianist|piano,1996,Actor in a Leading Role,Geoffrey Rush
+525,Scott Hicks,Shine,35811509.0,Biography|Drama|Music|Romance,105.0,abuse|australia|concert|pianist|piano,1996,Actor in a Supporting Role,Armin Mueller-Stahl
+526,Richard Eyre,Iris,1292119.0,Biography|Drama|Romance,91.0,alzheimer's disease|book|love|novelist|writer,2001,Actor in a Supporting Role,Jim Broadbent
+527,Richard Eyre,Iris,1292119.0,Biography|Drama|Romance,91.0,alzheimer's disease|book|love|novelist|writer,2001,Actress in a Leading Role,Judi Dench
+528,Richard Eyre,Iris,1292119.0,Biography|Drama|Romance,91.0,alzheimer's disease|book|love|novelist|writer,2001,Actress in a Supporting Role,Kate Winslet
+529,Spike Lee,Do the Right Thing,27545445.0,Drama,120.0,black militant|frustration|pizza|pizza parlor|pizzeria,1989,Actor in a Supporting Role,Danny Aiello
+530,Henry Koster,The Robe,36000000.0,Drama|History,135.0,box office hit|crucifixion|nightmare|palestine|robe,1953,Actor,Richard Burton
+531,Patty Jenkins,Monster,34468224.0,Biography|Crime|Drama|Thriller,109.0,beach|female criminal|hooker|lesbian|prostitute,2003,Actress in a Leading Role,Charlize Theron
+532,David Lynch,The Elephant Man,,Biography|Drama,124.0,curiosity|exploitation|freak|hospital|physical deformity,1980,Actor in a Leading Role,John Hurt
+533,Jean-Marc VallÌ©e,Dallas Buyers Club,27296514.0,Biography|Drama,117.0,drugs|fda|gay community|hiv|homophobia,2013,Actor in a Leading Role,Matthew McConaughey
+534,Jean-Marc VallÌ©e,Dallas Buyers Club,27296514.0,Biography|Drama,117.0,drugs|fda|gay community|hiv|homophobia,2013,Actor in a Supporting Role,Jared Leto
+535,Stephen Daldry,Billy Elliot,21994911.0,Drama|Music,110.0,audition|ballet|boxing|miner|miners strike,2000,Actress in a Supporting Role,Julie Walters
+536,Robert Duvall,The Apostle,20733485.0,Drama,134.0,church|louisiana|minister|preacher|texas,1997,Actor in a Leading Role,Robert Duvall
+537,Richard Glatzer,Still Alice,18656400.0,Drama,101.0,alzheimer's disease|bechdel test passed|linguistics professor|new york city|reference to angels in america the play,2014,Actress in a Leading Role,Julianne Moore
+538,Frank Borzage,A Farewell to Arms,,Drama|Romance|War,79.0,1910s|ambulance driver|italy|lake|nurse,1957,Actor in a Supporting Role,Vittorio De Sica
+539,John Cameron Mitchell,Rabbit Hole,2221809.0,Drama,91.0,car|comic book|comic book artist|iphone|memory,2010,Actress in a Leading Role,Nicole Kidman
+540,Billy Bob Thornton,Sling Blade,24475416.0,Drama,148.0,friend|mental institution|murder|repair shop|small town,1996,Actor in a Leading Role,Billy Bob Thornton
+541,Darren Aronofsky,Requiem for a Dream,3609278.0,Drama,102.0,addiction|diet pill|drug addiction|fast motion scene|heroin,2000,Actress in a Leading Role,Ellen Burstyn
+542,Oliver Stone,Salvador,,Drama|History|Thriller|War,122.0,1980s|el salvador|political thriller|reagan administration|war journalism,1986,Actor in a Leading Role,James Woods
+543,Jonathan Glazer,Sexy Beast,6940281.0,Crime|Thriller,89.0,boulder|gangster|one last job|spain|villa,2001,Actor in a Supporting Role,Ben Kingsley
+544,Niki Caro,Whale Rider,20772796.0,Drama|Family,101.0,girl|maori|new zealand|tradition|whale,2003,Actress in a Leading Role,Keisha Castle-Hughes
+545,Neil Jordan,The Crying Game,62549000.0,Crime|Drama|Romance|Thriller,112.0,androgynous|full frontal male nudity|irish republican army|psychological drama|tragic love,1992,Actor in a Leading Role,Stephen Rea
+546,Neil Jordan,The Crying Game,62549000.0,Crime|Drama|Romance|Thriller,112.0,androgynous|full frontal male nudity|irish republican army|psychological drama|tragic love,1992,Actor in a Supporting Role,Jaye Davidson
+547,Sofia Coppola,Lost in Translation,44566004.0,Drama,101.0,fish out of water|japanese|loneliness|older man younger woman relationship|unlikely friendship,2003,Actor in a Leading Role,Bill Murray
+548,Woody Allen,Annie Hall,39200000.0,Comedy|Romance,93.0,breaking the fourth wall|comedian|jewish|neurosis|singer,1977,Actor in a Leading Role,Woody Allen
+549,Woody Allen,Annie Hall,39200000.0,Comedy|Romance,93.0,breaking the fourth wall|comedian|jewish|neurosis|singer,1977,Actress in a Leading Role,Diane Keaton
+550,Marc Forster,Monster's Ball,31252964.0,Drama|Romance,112.0,cunnilingus|female frontal nudity|female nudity|interracial sex|rear entry sex,2001,Actress in a Leading Role,Halle Berry
+551,Mike Figgis,Leaving Las Vegas,31968347.0,Drama|Romance,111.0,alcoholic|bar|love|prostitute|sex,1995,Actor in a Leading Role,Nicolas Cage
+552,Mike Figgis,Leaving Las Vegas,31968347.0,Drama|Romance,111.0,alcoholic|bar|love|prostitute|sex,1995,Actress in a Leading Role,Elisabeth Shue
+553,Billy Wilder,The Front Page,,Comedy|Drama|Romance,105.0,1920s|communist|escape from jail|newspaper|reporter,1930/1931,Actor,Adolphe Menjou
+554,Lisa Cholodenko,The Kids Are All Right,20803237.0,Comedy|Drama,106.0,biological father|college|motorcycle|sperm|sperm donor,2010,Actor in a Supporting Role,Mark Ruffalo
+555,Lisa Cholodenko,The Kids Are All Right,20803237.0,Comedy|Drama,106.0,biological father|college|motorcycle|sperm|sperm donor,2010,Actress in a Leading Role,Annette Bening
+556,Richard Linklater,Boyhood,25359200.0,Drama,165.0,12 year time span|coming of age|domestic abuse|growing up|separated parents,2014,Actor in a Supporting Role,Ethan Hawke
+557,Richard Linklater,Boyhood,25359200.0,Drama,165.0,12 year time span|coming of age|domestic abuse|growing up|separated parents,2014,Actress in a Supporting Role,Patricia Arquette
+558,Wayne Kramer,The Cooler,8243880.0,Crime|Drama|Fantasy|Romance,101.0,female pubic hair|girl in panties|leg spreading|public nudity|sex in bed,2003,Actor in a Supporting Role,Alec Baldwin
+559,Fred Zinnemann,A Man for All Seasons,,Biography|Drama|History,120.0,catholic|chancellor|divorce|king henry viii|thomas more,1966,Actor,Paul Scofield
+560,Fred Zinnemann,A Man for All Seasons,,Biography|Drama|History,120.0,catholic|chancellor|divorce|king henry viii|thomas more,1966,Actor in a Supporting Role,Robert Shaw
+561,Fred Zinnemann,A Man for All Seasons,,Biography|Drama|History,120.0,catholic|chancellor|divorce|king henry viii|thomas more,1966,Actress in a Supporting Role,Wendy Hiller
+562,Sidney Lumet,Network,,Drama|Romance,121.0,media|monologue|television|television network|television news,1976,Actor in a Leading Role,Peter Finch
+563,Sidney Lumet,Network,,Drama|Romance,121.0,media|monologue|television|television network|television news,1976,Actor in a Leading Role,William Holden
+564,Sidney Lumet,Network,,Drama|Romance,121.0,media|monologue|television|television network|television news,1976,Actor in a Supporting Role,Ned Beatty
+565,Sidney Lumet,Network,,Drama|Romance,121.0,media|monologue|television|television network|television news,1976,Actress in a Leading Role,Faye Dunaway
+566,Sidney Lumet,Network,,Drama|Romance,121.0,media|monologue|television|television network|television news,1976,Actress in a Supporting Role,Beatrice Straight
+567,Victor Fleming,Gone with the Wind,198655278.0,Drama|History|Romance|War,226.0,battle of the sexes|gallantry|honesty|indifference|scandal,1939,Actor,Clark Gable
+568,Victor Fleming,Gone with the Wind,198655278.0,Drama|History|Romance|War,226.0,battle of the sexes|gallantry|honesty|indifference|scandal,1939,Actress,Vivien Leigh
+569,Victor Fleming,Gone with the Wind,198655278.0,Drama|History|Romance|War,226.0,battle of the sexes|gallantry|honesty|indifference|scandal,1939,Actress in a Supporting Role,Olivia de Havilland
+570,Victor Fleming,Gone with the Wind,198655278.0,Drama|History|Romance|War,226.0,battle of the sexes|gallantry|honesty|indifference|scandal,1939,Actress in a Supporting Role,Hattie McDaniel
+571,Victor Fleming,Gone with the Wind,198655278.0,Drama|History|Romance|War,226.0,battle of the sexes|gallantry|honesty|indifference|scandal,1939,Special Award,William Cameron Menzies
+572,John Schlesinger,Midnight Cowboy,,Drama,113.0,gay|homosexual|homosexuality|hustler|male rear nudity,1969,Actor,Dustin Hoffman
+573,John Schlesinger,Midnight Cowboy,,Drama,113.0,gay|homosexual|homosexuality|hustler|male rear nudity,1969,Actor,Jon Voight
+574,John Schlesinger,Midnight Cowboy,,Drama,113.0,gay|homosexual|homosexuality|hustler|male rear nudity,1969,Actress in a Supporting Role,Sylvia Miles
+575,Fred Zinnemann,The Nun's Story,,Drama,149.0,belgium|congo|convent|nun|nurse,1959,Actress,Audrey Hepburn
+576,Bill Condon,Gods and Monsters,6390032.0,Biography|Drama,105.0,friendship|gardener|gay interest|homosexual|memory,1998,Actor in a Leading Role,Ian McKellen
+577,Bill Condon,Gods and Monsters,6390032.0,Biography|Drama,105.0,friendship|gardener|gay interest|homosexual|memory,1998,Actress in a Supporting Role,Lynn Redgrave
+578,Damien Chazelle,Whiplash,13092000.0,Drama|Music,107.0,conservatory|drummer|emotional abuse|music school|obsession,2014,Actor in a Supporting Role,J.K. Simmons
+579,Roman Polanski,Rosemary's Baby,,Drama|Horror,136.0,devil worship|incubus|paranoia|raped by a demon|satanism,1968,Actress in a Supporting Role,Ruth Gordon
+580,Joshua Marston,Maria Full of Grace,6517198.0,Crime|Drama,101.0,colombia|colombian|drug mule|money|stomach,2004,Actress in a Leading Role,Catalina Sandino Moreno
+581,Mike Mills,Beginners,5776314.0,Comedy|Drama|Romance,105.0,actress|cancer|death|french|gay relationship,2011,Actor in a Supporting Role,Christopher Plummer
+582,Frank Capra,It's a Wonderful Life,,Drama|Family|Fantasy|Romance,118.0,angel|bank|guardian angel|second chance|small town life,1946,Actor,James Stewart
+583,Yimou Zhang,Coming Home,377420.0,Drama,109.0,amnesia|cultural revolution|husband wife relationship|memory|political prisoner,1978,Actor in a Leading Role,Jon Voight
+584,Yimou Zhang,Coming Home,377420.0,Drama,109.0,amnesia|cultural revolution|husband wife relationship|memory|political prisoner,1978,Actor in a Supporting Role,Bruce Dern
+585,Yimou Zhang,Coming Home,377420.0,Drama,109.0,amnesia|cultural revolution|husband wife relationship|memory|political prisoner,1978,Actress in a Leading Role,Jane Fonda
+586,Yimou Zhang,Coming Home,377420.0,Drama,109.0,amnesia|cultural revolution|husband wife relationship|memory|political prisoner,1978,Actress in a Supporting Role,Penelope Milford
+587,James Ivory,A Room with a View,20966644.0,Drama|Romance,117.0,male nudity|male pubic hair|nude bathing|piano|pubic hair,1986,Actor in a Supporting Role,Denholm Elliott
+588,James Ivory,A Room with a View,20966644.0,Drama|Romance,117.0,male nudity|male pubic hair|nude bathing|piano|pubic hair,1986,Actress in a Supporting Role,Maggie Smith
+589,Richard Brooks,Cat on a Hot Tin Roof,,Drama|Romance,108.0,cancer|football|homosexuality|marriage|mississippi,1958,Actor,Paul Newman
+590,Richard Brooks,Cat on a Hot Tin Roof,,Drama|Romance,108.0,cancer|football|homosexuality|marriage|mississippi,1958,Actress,Elizabeth Taylor
+591,David Lean,The Bridge on the River Kwai,27200000.0,Adventure|Drama|War,161.0,allies|bridge|construction|jungle|sabotage,1957,Actor,Alec Guinness
+592,David Lean,The Bridge on the River Kwai,27200000.0,Adventure|Drama|War,161.0,allies|bridge|construction|jungle|sabotage,1957,Actor in a Supporting Role,Sessue Hayakawa
+593,Billy Wilder,The Apartment,,Comedy|Drama|Romance,125.0,apartment|elevator|elevator girl|love|mistress,1960,Actor,Jack Lemmon
+594,Billy Wilder,The Apartment,,Comedy|Drama|Romance,125.0,apartment|elevator|elevator girl|love|mistress,1960,Actor in a Supporting Role,Jack Kruschen
+595,Billy Wilder,The Apartment,,Comedy|Drama|Romance,125.0,apartment|elevator|elevator girl|love|mistress,1960,Actress,Shirley MacLaine
+596,Richard Brooks,Elmer Gantry,,Drama,146.0,1920s|evangelist|preacher|revival|traveling salesman,1960,Actor,Burt Lancaster
+597,Richard Brooks,Elmer Gantry,,Drama,146.0,1920s|evangelist|preacher|revival|traveling salesman,1960,Actress in a Supporting Role,Shirley Jones
+598,Stanley Kramer,Judgment at Nuremberg,,Drama|War,186.0,judge|law|nazi|nuremberg|war crime,1961,Actor,Maximilian Schell
+599,Stanley Kramer,Judgment at Nuremberg,,Drama|War,186.0,judge|law|nazi|nuremberg|war crime,1961,Actor,Spencer Tracy
+600,Stanley Kramer,Judgment at Nuremberg,,Drama|War,186.0,judge|law|nazi|nuremberg|war crime,1961,Actor in a Supporting Role,Montgomery Clift
+601,Stanley Kramer,Judgment at Nuremberg,,Drama|War,186.0,judge|law|nazi|nuremberg|war crime,1961,Actress in a Supporting Role,Judy Garland
+602,Walter Salles,Central Station,5595428.0,Drama,113.0,brazil|letter|rio de janeiro brazil|sertao|teacher,1998,Actress in a Leading Role,Fernanda Montenegro
+603,Frank Capra,Pocketful of Miracles,,Comedy|Drama,136.0,1930s|apple|dude|luck|new york city,1961,Actor in a Supporting Role,Peter Falk
+604,Craig Brewer,Hustle & Flow,22201636.0,Crime|Drama|Music,116.0,baby|friend|hip hop|pimp|stripper,2005,Actor in a Leading Role,Terrence Howard
+605,Billy Wilder,Some Like It Hot,25000000.0,Comedy|Music|Romance,120.0,all girl band|band|cross dressing|musician|yacht,1959,Actor,Jack Lemmon
+606,Victor Nunez,Ulee's Gold,9054736.0,Drama,113.0,beekeeper|bound and gagged|dysfunctional family|man with glasses|tied to a chair,1997,Actor in a Leading Role,Peter Fonda
+607,Carroll Ballard,The Black Stallion,,Adventure|Family|Sport,118.0,black horse|boy horse relationship|horse|rescued by a horse|training,1979,Actor in a Supporting Role,Mickey Rooney
+608,Mel Brooks,Blazing Saddles,119500000.0,Comedy|Western,93.0,railroad|reference to douglas fairbanks|reference to jesse owens|reference to randolph scott|year 1874,1974,Actress in a Supporting Role,Madeline Kahn
+609,Stanley Donen,Singin' in the Rain,,Comedy|Musical|Romance,103.0,actress|chorus girl|fan|friend|love,1952,Actress in a Supporting Role,Jean Hagen
+610,Martin Ritt,Hud,,Drama,112.0,alcoholism|forename as title|rancher|rodeo cowboy|texas,1963,Actor,Paul Newman
+611,Martin Ritt,Hud,,Drama,112.0,alcoholism|forename as title|rancher|rodeo cowboy|texas,1963,Actor in a Supporting Role,Melvyn Douglas
+612,Martin Ritt,Hud,,Drama,112.0,alcoholism|forename as title|rancher|rodeo cowboy|texas,1963,Actress,Patricia Neal
+613,James Algar,Fantasia,76400000.0,Animation|Family|Fantasy|Music,120.0,apprentice|classical music|disney|mouse|orchestra,1941,Special Award,Leopold Stokowski and Associates
+614,James Algar,Fantasia,76400000.0,Animation|Family|Fantasy|Music,120.0,apprentice|classical music|disney|mouse|orchestra,1941,Special Award,"Walt Disney, William Garity, John N. A. Hawkins and the RCA Manufacturing Company"
+615,Tay Garnett,The Valley of Decision,,Drama,119.0,immigrant|maid|steel mill|strike|union,1945,Actress,Greer Garson
+616,William Wyler,The Best Years of Our Lives,23650000.0,Drama|Romance|War,172.0,love|pity|readjusting to civilian life|veteran|world war two veteran,1946,Actor,Fredric March
+617,William Wyler,The Best Years of Our Lives,23650000.0,Drama|Romance|War,172.0,love|pity|readjusting to civilian life|veteran|world war two veteran,1946,Actor in a Supporting Role,Harold Russell
+618,William Wyler,The Best Years of Our Lives,23650000.0,Drama|Romance|War,172.0,love|pity|readjusting to civilian life|veteran|world war two veteran,1946,Special Award,Harold Russell
+619,Robert Mulligan,To Kill a Mockingbird,,Crime|Drama,129.0,1930s|alabama|lawyer|six year old|trial,1962,Actor,Gregory Peck
+620,Robert Mulligan,To Kill a Mockingbird,,Crime|Drama,129.0,1930s|alabama|lawyer|six year old|trial,1962,Actress in a Supporting Role,Mary Badham
+621,Kimberly Peirce,Boys Don't Cry,11533945.0,Biography|Crime|Drama|Romance,118.0,drinking|female dressed as male|love|nebraska|transgender,1999,Actress in a Leading Role,Hilary Swank
+622,Kimberly Peirce,Boys Don't Cry,11533945.0,Biography|Crime|Drama|Romance,118.0,drinking|female dressed as male|love|nebraska|transgender,1999,Actress in a Supporting Role,Chloë Sevigny
+623,Robert Rossen,The Hustler,,Drama|Sport,134.0,drink|manager|money|partner|pool hall,1961,Actor,Paul Newman
+624,Robert Rossen,The Hustler,,Drama|Sport,134.0,drink|manager|money|partner|pool hall,1961,Actor in a Supporting Role,Jackie Gleason
+625,Robert Rossen,The Hustler,,Drama|Sport,134.0,drink|manager|money|partner|pool hall,1961,Actor in a Supporting Role,George C. Scott
+626,Robert Rossen,The Hustler,,Drama|Sport,134.0,drink|manager|money|partner|pool hall,1961,Actress,Piper Laurie
+627,Catherine Hardwicke,Thirteen,4599680.0,Drama,100.0,13 year olds|adolescence|friend|peer pressure|teacher,2003,Actress in a Supporting Role,Holly Hunter
+628,Elia Kazan,Gentleman's Agreement,,Drama|Romance,118.0,bigotry|jewish|prejudice|racism|writer,1947,Actor,Gregory Peck
+629,Elia Kazan,Gentleman's Agreement,,Drama|Romance,118.0,bigotry|jewish|prejudice|racism|writer,1947,Actress,Dorothy McGuire
+630,Elia Kazan,Gentleman's Agreement,,Drama|Romance,118.0,bigotry|jewish|prejudice|racism|writer,1947,Actress in a Supporting Role,Celeste Holm
+631,Elia Kazan,Gentleman's Agreement,,Drama|Romance,118.0,bigotry|jewish|prejudice|racism|writer,1947,Actress in a Supporting Role,Anne Revere
+632,Debra Granik,Winter's Bone,6531491.0,Drama,100.0,bail|crystal meth|family relationships|female protagonist|search for father,2010,Actor in a Supporting Role,John Hawkes
+633,Debra Granik,Winter's Bone,6531491.0,Drama,100.0,bail|crystal meth|family relationships|female protagonist|search for father,2010,Actress in a Leading Role,Jennifer Lawrence
+634,Elia Kazan,A Streetcar Named Desire,,Drama,125.0,brother in law sister in law relationship|expectant father|histrionic personality disorder|middle aged woman|off screen rape,1951,Actor,Marlon Brando
+635,Elia Kazan,A Streetcar Named Desire,,Drama,125.0,brother in law sister in law relationship|expectant father|histrionic personality disorder|middle aged woman|off screen rape,1951,Actor in a Supporting Role,Karl Malden
+636,Elia Kazan,A Streetcar Named Desire,,Drama,125.0,brother in law sister in law relationship|expectant father|histrionic personality disorder|middle aged woman|off screen rape,1951,Actress,Vivien Leigh
+637,Elia Kazan,A Streetcar Named Desire,,Drama,125.0,brother in law sister in law relationship|expectant father|histrionic personality disorder|middle aged woman|off screen rape,1951,Actress in a Supporting Role,Kim Hunter
+638,Stanley Kubrick,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,,Comedy,95.0,bomber|doomsday|general|u.s. president|war room,1964,Actor,Peter Sellers
+639,Benh Zeitlin,Beasts of the Southern Wild,12784397.0,Drama|Fantasy,93.0,auroch|community|hospital|illness|six year old,2012,Actress in a Leading Role,Quvenzhané Wallis
+640,Todd Field,In the Bedroom,35918429.0,Crime|Drama,138.0,doctor|maine|only son|school choir|summer,2001,Actor in a Leading Role,Tom Wilkinson
+641,Todd Field,In the Bedroom,35918429.0,Crime|Drama,138.0,doctor|maine|only son|school choir|summer,2001,Actress in a Leading Role,Sissy Spacek
+642,Todd Field,In the Bedroom,35918429.0,Crime|Drama,138.0,doctor|maine|only son|school choir|summer,2001,Actress in a Supporting Role,Marisa Tomei
+643,Frank Capra,You Can't Take It with You,,Comedy|Drama|Romance,126.0,eccentric|friend|house|monopoly|stenographer,1938,Actress in a Supporting Role,Spring Byington
+644,Fred Zinnemann,From Here to Eternity,,Drama|Romance|War,118.0,boxing|captain|hawaii|love|sergeant,1953,Actor,Montgomery Clift
+645,Fred Zinnemann,From Here to Eternity,,Drama|Romance|War,118.0,boxing|captain|hawaii|love|sergeant,1953,Actor,Burt Lancaster
+646,Fred Zinnemann,From Here to Eternity,,Drama|Romance|War,118.0,boxing|captain|hawaii|love|sergeant,1953,Actor in a Supporting Role,Frank Sinatra
+647,Fred Zinnemann,From Here to Eternity,,Drama|Romance|War,118.0,boxing|captain|hawaii|love|sergeant,1953,Actress,Deborah Kerr
+648,Fred Zinnemann,From Here to Eternity,,Drama|Romance|War,118.0,boxing|captain|hawaii|love|sergeant,1953,Actress in a Supporting Role,Donna Reed
+649,Frank Capra,Mr. Smith Goes to Washington,,Comedy|Drama,120.0,camp|corruption|governor|senate|u.s. senate,1939,Actor,James Stewart
+650,Frank Capra,Mr. Smith Goes to Washington,,Comedy|Drama,120.0,camp|corruption|governor|senate|u.s. senate,1939,Actor in a Supporting Role,Harry Carey
+651,Frank Capra,Mr. Smith Goes to Washington,,Comedy|Drama,120.0,camp|corruption|governor|senate|u.s. senate,1939,Actor in a Supporting Role,Claude Rains
+652,Alfred Hitchcock,Spellbound,,Film-Noir|Mystery|Romance|Thriller,95.0,amnesia|dream analysis|dream sequence|guilt complex|post traumatic stress disorder,1945,Actor in a Supporting Role,Michael Chekhov
+653,William Cottrell,Snow White and the Seven Dwarfs,184925485.0,Animation|Family|Fantasy|Musical,83.0,dwarf|love|princess|queen|snow white,1938,Special Award,Walt Disney
+654,Alfred Hitchcock,Rebecca,,Drama|Film-Noir|Mystery|Thriller,130.0,death|estate|housekeeper|love|monte carlo,1940,Actor,Laurence Olivier
+655,Alfred Hitchcock,Rebecca,,Drama|Film-Noir|Mystery|Thriller,130.0,death|estate|housekeeper|love|monte carlo,1940,Actress,Joan Fontaine
+656,Alfred Hitchcock,Rebecca,,Drama|Film-Noir|Mystery|Thriller,130.0,death|estate|housekeeper|love|monte carlo,1940,Actress in a Supporting Role,Judith Anderson
+657,Billy Wilder,The Lost Weekend,,Drama|Film-Noir,101.0,addiction|alcoholic|alcoholism|paranoia|suicidal thoughts,1945,Actor,Ray Milland
+658,John Ford,How Green Was My Valley,,Drama|Family,118.0,coal mine|girl|school|village|wales,1941,Actor in a Supporting Role,Donald Crisp
+659,John Ford,How Green Was My Valley,,Drama|Family,118.0,coal mine|girl|school|village|wales,1941,Actress in a Supporting Role,Sara Allgood
+660,Kenneth Lonergan,You Can Count on Me,9180275.0,Drama,111.0,bank|car accident|cheating husband|new york|single mother,2000,Actress in a Leading Role,Laura Linney
+661,Michael Curtiz,Casablanca,,Drama|Romance|War,82.0,american expatriate|casablanca morocco|gestapo|police|visa,1943,Actor,Humphrey Bogart
+662,Michael Curtiz,Casablanca,,Drama|Romance|War,82.0,american expatriate|casablanca morocco|gestapo|police|visa,1943,Actor in a Supporting Role,Claude Rains
+663,John G. Avildsen,Rocky,117235247.0,Drama|Sport,145.0,boxer|hometown hero|philadelphia pennsylvania|protective male|training,1976,Actor in a Leading Role,Sylvester Stallone
+664,John G. Avildsen,Rocky,117235247.0,Drama|Sport,145.0,boxer|hometown hero|philadelphia pennsylvania|protective male|training,1976,Actor in a Supporting Role,Burgess Meredith
+665,John G. Avildsen,Rocky,117235247.0,Drama|Sport,145.0,boxer|hometown hero|philadelphia pennsylvania|protective male|training,1976,Actor in a Supporting Role,Burt Young
+666,John G. Avildsen,Rocky,117235247.0,Drama|Sport,145.0,boxer|hometown hero|philadelphia pennsylvania|protective male|training,1976,Actress in a Leading Role,Talia Shire
+667,Tony Richardson,Tom Jones,,Adventure|Comedy|History,121.0,18th century|rags to riches|secret letter|squire|tutor,1963,Actor,Albert Finney
+668,Tony Richardson,Tom Jones,,Adventure|Comedy|History,121.0,18th century|rags to riches|secret letter|squire|tutor,1963,Actor in a Supporting Role,Hugh Griffith
+669,Tony Richardson,Tom Jones,,Adventure|Comedy|History,121.0,18th century|rags to riches|secret letter|squire|tutor,1963,Actress in a Supporting Role,Diane Cilento
+670,Tony Richardson,Tom Jones,,Adventure|Comedy|History,121.0,18th century|rags to riches|secret letter|squire|tutor,1963,Actress in a Supporting Role,Dame Edith Evans
+671,Tony Richardson,Tom Jones,,Adventure|Comedy|History,121.0,18th century|rags to riches|secret letter|squire|tutor,1963,Actress in a Supporting Role,Joyce Redman
+672,Martin Scorsese,Taxi Driver,,Crime|Drama,110.0,loner|neo noir|night shift|taxi driver|vigilante,1976,Actor in a Leading Role,Robert De Niro
+673,Martin Scorsese,Taxi Driver,,Crime|Drama,110.0,loner|neo noir|night shift|taxi driver|vigilante,1976,Actress in a Supporting Role,Jodie Foster
+674,Derek Cianfrance,Blue Valentine,9701559.0,Drama|Romance,112.0,dog hit by a car|dysfunctional family|falling in love|female in shower|unhappily married woman,2010,Actress in a Leading Role,Michelle Williams
+675,Duncan Tucker,Transamerica,9013113.0,Adventure|Comedy|Drama,103.0,bail|male full frontal nudity|sex change|stepfather|transsexual,2005,Actress in a Leading Role,Felicity Huffman
+676,Allan Dwan,Sands of Iwo Jima,,Action|Drama|Romance|War,109.0,battle|combat|heroic military|sergeant|tarawa,1949,Actor,John Wayne
+677,Ben Lewin,The Sessions,5997134.0,Biography|Comedy|Drama|Romance,95.0,falling in love|iron lung|priest|sex surrogate|therapist,2012,Actress in a Supporting Role,Helen Hunt
+678,Courtney Hunt,Frozen River,2508841.0,Crime|Drama,97.0,border|mohawk|money|new york|river,2008,Actress in a Leading Role,Melissa Leo
+679,Ralph Nelson,Charly,,Drama|Romance|Sci-Fi,103.0,disability|experiment|genius|intelligence|mouse,1968,Actor,Cliff Robertson
+680,Elia Kazan,On the Waterfront,9600000.0,Crime|Drama|Romance,108.0,death|dock|longshoreman|murder|union,1954,Actor,Marlon Brando
+681,Elia Kazan,On the Waterfront,9600000.0,Crime|Drama|Romance,108.0,death|dock|longshoreman|murder|union,1954,Actor in a Supporting Role,Lee J. Cobb
+682,Elia Kazan,On the Waterfront,9600000.0,Crime|Drama|Romance,108.0,death|dock|longshoreman|murder|union,1954,Actor in a Supporting Role,Karl Malden
+683,Elia Kazan,On the Waterfront,9600000.0,Crime|Drama|Romance,108.0,death|dock|longshoreman|murder|union,1954,Actor in a Supporting Role,Rod Steiger
+684,Elia Kazan,On the Waterfront,9600000.0,Crime|Drama|Romance,108.0,death|dock|longshoreman|murder|union,1954,Actress in a Supporting Role,Eva Marie Saint
+685,George Lucas,American Graffiti,115000000.0,Comedy|Drama|Music,112.0,california|car|drag racing|high school|rock 'n' roll,1973,Actress in a Supporting Role,Candy Clark
+686,Fred Zinnemann,High Noon,,Thriller|Western,85.0,appeasement|frontier justice|justice|one against many|street shootout,1952,Actor,Gary Cooper
+687,Ryan Fleck,Half Nelson,2694973.0,Drama,106.0,bathroom|classroom|dialectics|drugs|student,2006,Actor in a Leading Role,Ryan Gosling
+688,Amy Holden Jones,Love Letters,,Drama|Romance,88.0,1980s|affair|female protagonist|radio|woman wearing only a man's shirt,1945,Actress,Jennifer Jones
+689,Harry Beaumont,The Broadway Melody,2808000.0,Musical|Romance,100.0,sibling rivalry|singer|sister act|whistling|wisecrack humor,1928/1929,Actress,Bessie Love
+690,Harry Beaumont,The Broadway Melody,2808000.0,Musical|Romance,100.0,sibling rivalry|singer|sister act|whistling|wisecrack humor,1928/1929,Directing,Harry Beaumont
+691,Harry Beaumont,The Broadway Melody,2808000.0,Musical|Romance,100.0,sibling rivalry|singer|sister act|whistling|wisecrack humor,1928/1929,Outstanding Picture,Metro-Goldwyn-Mayer
+692,Frank Capra,It Happened One Night,,Comedy|Romance,65.0,bus|detective|love|money|reporter,1934,Actor,Clark Gable
+693,Frank Capra,It Happened One Night,,Comedy|Romance,65.0,bus|detective|love|money|reporter,1934,Actress,Claudette Colbert
+694,Gavin O'Connor,Tumbleweeds,1281176.0,Comedy|Drama,102.0,boss|fight|reference to william shakespeare|white trash|written and directed by cast member,1999,Actress in a Leading Role,Janet McTeer
+695,Peter Hedges,Pieces of April,2360184.0,Comedy|Drama,80.0,apartment|oven|stove|thanksgiving|thanksgiving dinner,2003,Actress in a Supporting Role,Patricia Clarkson
